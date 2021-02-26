@@ -1,0 +1,643 @@
+,name,team,year,mpg,fg%,3pfg%,rebounds,assists,steals,blocks,turnovers,points_per_game,player_efficiency,position
+0,LeBron James,Los Angeles Lakers,2020,34.6,.493,.348,7.8,10.2,1.2,0.5,3.9,25.3,25.5,PG
+1,Anthony Davis,Los Angeles Lakers,2020,34.4,.503,.330,9.3,3.2,1.5,2.3,2.5,26.1,27.4,PF
+2,Kentavious Caldwell-Pope,Los Angeles Lakers,2020,25.5,.467,.385,2.1,1.6,0.8,0.2,0.9,9.3,11.0,SG
+3,Kyle Kuzma,Los Angeles Lakers,2020,25.0,.436,.316,4.5,1.3,0.5,0.4,1.5,12.8,12.2,PF
+4,Danny Green,Los Angeles Lakers,2020,24.8,.416,.367,3.3,1.3,1.3,0.5,0.9,8.0,10.8,SG
+5,Avery Bradley,Los Angeles Lakers,2020,24.2,.444,.364,2.3,1.3,0.9,0.1,1.0,8.6,8.9,SG
+6,Dion Waiters,Los Angeles Lakers,2020,23.6,.425,.233,1.9,2.4,0.6,0.6,1.9,11.9,11.0,SG
+7,Rajon Rondo,Los Angeles Lakers,2020,20.5,.418,.328,3.0,5.0,0.8,0.0,1.9,7.1,12.4,PG
+8,Dwight Howard,Los Angeles Lakers,2020,18.9,.729,.600,7.3,0.7,0.4,1.1,1.2,7.5,18.7,C
+9,Alex Caruso,Los Angeles Lakers,2020,18.4,.412,.333,1.9,1.9,1.1,0.3,0.8,5.5,10.8,PG
+10,JaVale McGee,Los Angeles Lakers,2020,16.6,.637,.500,5.7,0.5,0.5,1.4,0.8,6.6,19.4,C
+11,Markieff Morris,Los Angeles Lakers,2020,14.2,.406,.333,3.2,0.6,0.4,0.4,0.4,5.3,11.5,PF
+12,Talen Horton-Tucker,Los Angeles Lakers,2020,13.5,.467,.308,1.2,1.0,1.3,0.2,1.0,5.7,12.3,SG
+13,J.R. Smith,Los Angeles Lakers,2020,13.2,.318,.091,0.8,0.5,0.2,0.0,0.7,2.8,0.0,SG
+14,Quinn Cook,Los Angeles Lakers,2020,11.5,.425,.365,1.2,1.1,0.3,0.0,0.8,5.1,10.0,PG
+15,Troy Daniels,Los Angeles Lakers,2020,11.1,.392,.357,1.1,0.3,0.2,0.1,0.2,4.2,9.0,SG
+16,Devontae Cacok,Los Angeles Lakers,2020,9.0,.500,,5.0,1.0,0.0,0.0,0.0,6.0,28.6,C
+17,Jared Dudley,Los Angeles Lakers,2020,8.1,.400,.429,1.2,0.6,0.3,0.1,0.2,1.5,7.8,PF
+18,Kostas Antetokounmpo,Los Angeles Lakers,2020,4.0,1.000,,0.6,0.4,0.0,0.0,0.2,1.4,16.3,PF
+19,Zach Norvell,Los Angeles Lakers,2020,2.5,.000,,0.5,0.0,0.0,0.0,0.0,0.0,-5.6,SG
+20,Kawhi Leonard,Toronto Raptors,2019,34.0,.496,.371,7.3,3.3,1.8,0.4,2.0,26.6,25.8,SF
+21,Kyle Lowry,Toronto Raptors,2019,34.0,.411,.347,4.8,8.7,1.4,0.5,2.8,14.2,16.5,PG
+22,Pascal Siakam,Toronto Raptors,2019,31.9,.549,.369,6.9,3.1,0.9,0.7,1.9,16.9,18.7,PF
+23,Danny Green,Toronto Raptors,2019,27.7,.465,.455,4.0,1.6,0.9,0.7,0.9,10.3,13.0,SG
+24,Fred VanVleet,Toronto Raptors,2019,27.5,.410,.378,2.6,4.8,0.9,0.3,1.3,11.0,13.7,PG
+25,Serge Ibaka,Toronto Raptors,2019,27.2,.529,.290,8.1,1.3,0.4,1.4,1.5,15.0,18.7,C
+26,Marc Gasol,Toronto Raptors,2019,24.9,.465,.442,6.6,3.9,0.9,0.9,1.4,9.1,16.0,C
+27,OG Anunoby,Toronto Raptors,2019,20.2,.453,.332,2.9,0.7,0.7,0.3,0.8,7.0,9.8,SF
+28,Jeremy Lin,Toronto Raptors,2019,18.8,.374,.200,2.6,2.2,0.4,0.3,1.1,7.0,8.2,PG
+29,Jonas Valančiūnas,Toronto Raptors,2019,18.8,.575,.300,7.2,1.0,0.4,0.8,1.3,12.8,24.4,C
+30,Norman Powell,Toronto Raptors,2019,18.8,.483,.400,2.3,1.5,0.7,0.2,1.1,8.6,13.3,SG
+31,Delon Wright,Toronto Raptors,2019,18.3,.433,.333,2.6,2.2,0.9,0.3,0.8,6.9,14.5,PG
+32,C.J. Miles,Toronto Raptors,2019,14.1,.340,.314,1.7,0.6,0.5,0.3,0.5,5.5,8.0,SF
+33,Patrick McCaw,Toronto Raptors,2019,13.2,.444,.333,1.7,1.0,0.8,0.1,0.5,2.7,8.7,SG
+34,Jodie Meeks,Toronto Raptors,2019,13.0,.538,.444,1.5,1.0,0.1,0.1,0.3,6.4,16.0,SG
+35,Greg Monroe,Toronto Raptors,2019,11.1,.460,.000,4.1,0.4,0.3,0.2,0.8,4.8,13.5,C
+36,Eric Moreland,Toronto Raptors,2019,9.5,.429,1.000,4.3,1.0,0.3,0.3,1.3,1.8,7.1,PF
+37,Lorenzo Brown,Toronto Raptors,2019,8.2,.324,.214,1.2,1.1,0.5,0.2,0.6,2.1,6.3,PG
+38,Malcolm Miller,Toronto Raptors,2019,6.7,.423,.476,0.5,0.1,0.1,0.1,0.1,3.5,13.7,SF
+39,Chris Boucher,Toronto Raptors,2019,5.8,.447,.324,2.0,0.1,0.2,0.9,0.3,3.3,22.2,PF
+40,Malachi Richardson,Toronto Raptors,2019,4.7,.310,.320,0.6,0.0,0.0,0.0,0.4,1.4,0.9,SG
+41,Jordan Loyd,Toronto Raptors,2019,4.6,.444,.500,0.8,0.5,0.0,0.0,0.2,2.4,16.3,PG
+42,Klay Thompson,Golden State Warriors,2018,34.3,.488,.440,3.8,2.5,0.8,0.5,1.8,20.0,16.0,SG
+43,Kevin Durant,Golden State Warriors,2018,34.2,.516,.419,6.8,5.4,0.7,1.8,3.0,26.4,26.0,SF
+44,Draymond Green,Golden State Warriors,2018,32.7,.454,.301,7.6,7.3,1.4,1.3,2.9,11.0,16.1,PF
+45,Stephen Curry,Golden State Warriors,2018,32.0,.495,.423,5.1,6.1,1.6,0.2,3.0,26.4,28.2,PG
+46,Andre Iguodala,Golden State Warriors,2018,25.3,.463,.282,3.8,3.3,0.8,0.6,1.0,6.0,11.2,SF
+47,Quinn Cook,Golden State Warriors,2018,22.4,.484,.442,2.5,2.7,0.4,0.0,1.0,9.5,12.8,PG
+48,Nick Young,Golden State Warriors,2018,17.4,.412,.377,1.6,0.5,0.5,0.1,0.5,7.3,10.0,SG
+49,Patrick McCaw,Golden State Warriors,2018,16.9,.409,.238,1.4,1.4,0.8,0.2,0.7,4.0,7.4,SG
+50,Shaun Livingston,Golden State Warriors,2018,15.9,.501,.000,1.8,2.0,0.5,0.3,0.8,5.5,11.6,PG
+51,Jordan Bell,Golden State Warriors,2018,14.2,.627,.000,3.6,1.8,0.6,1.0,0.9,4.6,18.0,C
+52,Zaza Pachulia,Golden State Warriors,2018,14.1,.564,.000,4.7,1.6,0.6,0.2,1.0,5.4,17.0,C
+53,Omri Casspi,Golden State Warriors,2018,14.0,.580,.455,3.8,1.0,0.3,0.4,0.7,5.7,15.5,SF
+54,Kevon Looney,Golden State Warriors,2018,13.8,.580,.200,3.3,0.6,0.5,0.8,0.5,4.0,14.8,C
+55,David West,Golden State Warriors,2018,13.7,.571,.375,3.3,1.9,0.6,1.0,1.1,6.8,20.9,C
+56,JaVale McGee,Golden State Warriors,2018,9.5,.621,.000,2.6,0.5,0.3,0.9,0.4,4.8,22.3,C
+57,Damian Jones,Golden State Warriors,2018,5.9,.500,,0.9,0.1,0.1,0.2,0.3,1.7,6.8,C
+58,Chris Boucher,Golden State Warriors,2018,1.0,.000,.000,1.0,0.0,0.0,0.0,0.0,0.0,-28.5,PF
+59,Klay Thompson,Golden State Warriors,2017,34.0,.468,.414,3.7,2.1,0.8,0.5,1.6,22.3,17.4,SG
+60,Stephen Curry,Golden State Warriors,2017,33.4,.468,.411,4.5,6.6,1.8,0.2,3.0,25.3,24.6,PG
+61,Kevin Durant,Golden State Warriors,2017,33.4,.537,.375,8.3,4.8,1.1,1.6,2.2,25.1,27.6,PF
+62,Draymond Green,Golden State Warriors,2017,32.5,.418,.308,7.9,7.0,2.0,1.4,2.4,10.2,16.5,PF
+63,Andre Iguodala,Golden State Warriors,2017,26.3,.528,.362,4.0,3.4,1.0,0.5,0.8,7.6,14.3,SF
+64,Matt Barnes,Golden State Warriors,2017,20.5,.422,.346,4.6,2.3,0.6,0.5,1.2,5.7,10.7,SF
+65,Zaza Pachulia,Golden State Warriors,2017,18.1,.534,.000,5.9,1.9,0.8,0.5,1.2,6.1,16.1,C
+66,Shaun Livingston,Golden State Warriors,2017,17.7,.547,.333,2.0,1.8,0.5,0.3,0.8,5.1,10.1,PG
+67,Patrick McCaw,Golden State Warriors,2017,15.1,.433,.333,1.4,1.1,0.5,0.2,0.5,4.0,8.6,SG
+68,Ian Clark,Golden State Warriors,2017,14.8,.487,.374,1.6,1.2,0.5,0.1,0.7,6.8,13.1,SG
+69,David West,Golden State Warriors,2017,12.6,.536,.375,3.0,2.2,0.6,0.7,1.1,4.6,16.6,C
+70,JaVale McGee,Golden State Warriors,2017,9.6,.652,.000,3.2,0.2,0.2,0.9,0.5,6.1,25.2,C
+71,James Michael McAdoo,Golden State Warriors,2017,8.8,.530,.250,1.8,0.3,0.3,0.6,0.4,2.8,13.1,PF
+72,Damian Jones,Golden State Warriors,2017,8.5,.500,,2.3,0.0,0.1,0.4,0.6,1.9,5.3,C
+73,Kevon Looney,Golden State Warriors,2017,8.4,.523,.222,2.3,0.5,0.3,0.3,0.3,2.5,13.6,C
+74,Anderson Varejão,Golden State Warriors,2017,6.6,.357,,1.9,0.7,0.2,0.2,0.6,1.3,9.4,C
+75,Briante Weber,Golden State Warriors,2017,6.6,.357,.000,0.6,0.7,0.4,0.1,0.4,1.7,5.9,PG
+76,Dahntay Jones,Cleveland Cavaliers,2016,42.0,.429,.500,5.0,2.0,1.0,2.0,0.0,13.0,10.3,SF
+77,LeBron James,Cleveland Cavaliers,2016,35.6,.520,.309,7.4,6.8,1.4,0.6,3.3,25.3,27.5,SF
+78,Kyrie Irving,Cleveland Cavaliers,2016,31.5,.448,.321,3.0,4.7,1.1,0.3,2.3,19.6,19.9,PG
+79,Kevin Love,Cleveland Cavaliers,2016,31.5,.419,.360,9.9,2.4,0.8,0.5,1.8,16.0,19.0,PF
+80,J.R. Smith,Cleveland Cavaliers,2016,30.7,.415,.400,2.8,1.7,1.1,0.3,0.8,12.4,12.4,SG
+81,Tristan Thompson,Cleveland Cavaliers,2016,27.7,.588,,9.0,0.8,0.5,0.6,0.7,7.8,15.9,PF
+82,Matthew Dellavedova,Cleveland Cavaliers,2016,24.6,.405,.410,2.1,4.4,0.6,0.1,1.5,7.5,11.3,PG
+83,Iman Shumpert,Cleveland Cavaliers,2016,24.4,.374,.295,3.8,1.7,1.0,0.4,1.1,5.8,8.4,SG
+84,Mo Williams,Cleveland Cavaliers,2016,18.2,.437,.353,1.8,2.4,0.3,0.1,1.4,8.2,12.4,PG
+85,Richard Jefferson,Cleveland Cavaliers,2016,17.9,.458,.382,1.7,0.8,0.4,0.2,0.6,5.5,9.7,SF
+86,Timofey Mozgov,Cleveland Cavaliers,2016,17.4,.565,.143,4.4,0.4,0.3,0.8,0.9,6.3,14.6,C
+87,Channing Frye,Cleveland Cavaliers,2016,17.2,.441,.377,3.6,1.0,0.3,0.3,0.5,7.5,14.9,C
+88,Anderson Varejão,Cleveland Cavaliers,2016,10.0,.421,.000,2.9,0.6,0.4,0.2,0.5,2.6,11.2,C
+89,James Jones,Cleveland Cavaliers,2016,9.6,.408,.394,1.0,0.3,0.2,0.2,0.3,3.7,11.6,SF
+90,Jared Cunningham,Cleveland Cavaliers,2016,8.9,.352,.313,0.7,0.5,0.3,0.1,0.5,2.6,5.9,SG
+91,Jordan McRae,Cleveland Cavaliers,2016,7.5,.442,.636,0.8,1.0,0.0,0.1,0.6,4.1,14.2,PG
+92,Sasha Kaun,Cleveland Cavaliers,2016,3.8,.529,,1.0,0.1,0.2,0.2,0.3,0.9,12.5,C
+93,Joe Harris,Cleveland Cavaliers,2016,3.0,.250,.250,0.6,0.4,0.0,0.0,0.2,0.6,3.4,SG
+94,Stephen Curry,Golden State Warriors,2015,32.7,.487,.443,4.3,7.7,2.0,0.2,3.1,23.8,28.0,PG
+95,Klay Thompson,Golden State Warriors,2015,31.9,.463,.439,3.2,2.9,1.1,0.8,1.9,21.7,20.8,SG
+96,Draymond Green,Golden State Warriors,2015,31.5,.443,.337,8.2,3.7,1.6,1.3,1.7,11.7,16.4,PF
+97,Harrison Barnes,Golden State Warriors,2015,28.3,.482,.405,5.5,1.4,0.7,0.2,0.9,10.1,13.4,SF
+98,Andre Iguodala,Golden State Warriors,2015,26.9,.466,.349,3.3,3.0,1.2,0.3,1.1,7.8,12.3,SF
+99,Andrew Bogut,Golden State Warriors,2015,23.6,.563,,8.1,2.7,0.6,1.7,1.6,6.3,15.8,C
+100,Shaun Livingston,Golden State Warriors,2015,18.8,.500,.000,2.3,3.3,0.6,0.3,1.3,5.9,12.9,PG
+101,David Lee,Golden State Warriors,2015,18.4,.511,.000,5.2,1.7,0.6,0.5,1.0,7.9,17.8,PF
+102,Marreese Speights,Golden State Warriors,2015,15.9,.492,.278,4.3,0.9,0.3,0.4,1.1,10.4,19.5,C
+103,Leandro Barbosa,Golden State Warriors,2015,14.9,.474,.384,1.4,1.5,0.6,0.1,0.7,7.1,15.3,SG
+104,Justin Holiday,Golden State Warriors,2015,11.1,.387,.321,1.2,0.8,0.7,0.2,0.5,4.3,12.1,SG
+105,Festus Ezeli,Golden State Warriors,2015,11.0,.547,,3.4,0.2,0.2,0.9,0.7,4.4,16.2,C
+106,James Michael McAdoo,Golden State Warriors,2015,9.1,.545,,2.5,0.1,0.3,0.6,0.4,4.1,17.7,PF
+107,Brandon Rush,Golden State Warriors,2015,8.2,.204,.111,1.2,0.4,0.2,0.4,0.3,0.9,0.8,SG
+108,Ognjen Kuzmić,Golden State Warriors,2015,4.5,.667,,1.1,0.4,0.1,0.1,0.3,1.3,12.9,C
+109,Tony Parker,San Antonio Spurs,2014,29.4,.499,.373,2.3,5.7,0.5,0.1,2.2,16.7,18.9,PG
+110,Tim Duncan,San Antonio Spurs,2014,29.2,.490,.000,9.7,3.0,0.6,1.9,2.1,15.1,21.3,C
+111,Kawhi Leonard,San Antonio Spurs,2014,29.1,.522,.379,6.2,2.0,1.7,0.8,1.2,12.8,19.4,SF
+112,Marco Belinelli,San Antonio Spurs,2014,25.2,.485,.430,2.8,2.2,0.6,0.1,1.2,11.4,15.0,SF
+113,Boris Diaw,San Antonio Spurs,2014,25.0,.521,.402,4.1,2.8,0.6,0.4,1.5,9.1,14.1,PF
+114,Danny Green,San Antonio Spurs,2014,24.3,.432,.415,3.4,1.5,1.0,0.9,1.1,9.1,13.9,SG
+115,Manu Ginóbili,San Antonio Spurs,2014,22.8,.469,.349,3.0,4.3,1.0,0.3,2.0,12.3,20.0,SG
+116,Tiago Splitter,San Antonio Spurs,2014,21.5,.523,.000,6.2,1.5,0.5,0.5,1.3,8.2,16.5,C
+117,Patty Mills,San Antonio Spurs,2014,18.9,.464,.425,2.1,1.8,0.8,0.1,0.8,10.2,18.7,PG
+118,Malcolm Thomas,San Antonio Spurs,2014,15.0,.250,,9.0,0.0,0.0,2.0,1.0,2.0,6.6,PF
+119,Cory Joseph,San Antonio Spurs,2014,13.8,.475,.316,1.6,1.7,0.5,0.2,0.6,5.0,14.7,SG
+120,Jeff Ayres,San Antonio Spurs,2014,13.0,.580,,3.5,0.8,0.2,0.3,0.9,3.3,11.1,PF
+121,Nando De Colo,San Antonio Spurs,2014,11.6,.452,.323,1.7,1.2,0.6,0.1,0.8,4.3,13.2,SF
+122,Matt Bonner,San Antonio Spurs,2014,11.3,.445,.429,2.1,0.5,0.2,0.2,0.3,3.2,11.2,PF
+123,Shannon Brown,San Antonio Spurs,2014,10.3,.286,.000,1.3,0.5,0.1,0.0,0.8,2.3,-0.5,SG
+124,Damion James,San Antonio Spurs,2014,10.0,.222,.000,2.4,0.6,0.0,0.2,0.2,1.2,4.1,SF
+125,Aron Baynes,San Antonio Spurs,2014,9.3,.436,,2.7,0.6,0.0,0.1,0.7,3.0,9.7,C
+126,Othyus Jeffers,San Antonio Spurs,2014,8.5,.600,.000,1.5,0.3,0.0,0.0,0.0,1.8,8.9,SG
+127,Austin Daye,San Antonio Spurs,2014,8.2,.382,.414,1.4,0.4,0.3,0.3,0.4,4.1,13.5,SF
+128,LeBron James,Miami Heat,2013,37.9,.565,.406,8.0,7.3,1.7,0.9,3.0,26.8,31.6,PF
+129,Dwyane Wade,Miami Heat,2013,34.7,.521,.258,5.0,5.1,1.9,0.8,2.8,21.2,24.0,SG
+130,Chris Bosh,Miami Heat,2013,33.2,.535,.284,6.8,1.7,0.9,1.4,1.7,16.6,20.0,C
+131,Mario Chalmers,Miami Heat,2013,26.9,.429,.409,2.2,3.5,1.5,0.2,1.5,8.6,13.3,PG
+132,Ray Allen,Miami Heat,2013,25.8,.449,.419,2.7,1.7,0.8,0.2,1.3,10.9,14.7,SG
+133,Shane Battier,Miami Heat,2013,24.8,.420,.430,2.3,1.0,0.6,0.8,0.5,6.6,10.7,SF
+134,Norris Cole,Miami Heat,2013,19.9,.421,.357,1.6,2.1,0.7,0.1,1.3,5.6,7.9,PG
+135,Udonis Haslem,Miami Heat,2013,18.9,.514,,5.4,0.5,0.4,0.2,0.6,3.9,9.9,PF
+136,Mike Miller,Miami Heat,2013,15.3,.433,.417,2.7,1.7,0.4,0.1,0.6,4.8,13.5,SF
+137,Chris Andersen,Miami Heat,2013,14.9,.577,.667,4.1,0.4,0.4,1.0,0.6,4.9,17.4,C
+138,Rashard Lewis,Miami Heat,2013,14.4,.414,.389,2.2,0.5,0.4,0.3,0.6,5.2,11.1,PF
+139,Joel Anthony,Miami Heat,2013,9.1,.515,,1.9,0.2,0.2,0.7,0.4,1.4,10.4,C
+140,Juwan Howard,Miami Heat,2013,7.3,.526,,1.1,0.9,0.0,0.0,0.6,3.0,9.9,PF
+141,James Jones,Miami Heat,2013,5.8,.344,.302,0.6,0.3,0.1,0.2,0.1,1.6,8.1,SF
+142,Josh Harrellson,Miami Heat,2013,5.2,.444,.200,1.2,0.0,0.2,0.2,0.5,1.7,8.5,C
+143,Jarvis Varnado,Miami Heat,2013,5.0,.333,,0.8,0.3,0.0,0.3,0.6,0.3,-4.1,PF
+144,Terrel Harris,Miami Heat,2013,4.1,.250,.000,1.3,0.3,0.0,0.0,0.6,1.4,7.2,SG
+145,Dexter Pittman,Miami Heat,2013,3.0,.600,,1.8,0.0,0.0,0.0,0.5,1.5,17.0,C
+146,LeBron James,Miami Heat,2012,37.5,.531,.362,7.9,6.2,1.9,0.8,3.4,27.1,30.7,SF
+147,Chris Bosh,Miami Heat,2012,35.2,.487,.286,7.9,1.8,0.9,0.8,2.1,18.0,18.9,PF
+148,Dwyane Wade,Miami Heat,2012,33.2,.497,.268,4.8,4.6,1.7,1.3,2.6,22.1,26.3,SG
+149,Mario Chalmers,Miami Heat,2012,28.5,.448,.388,2.7,3.5,1.5,0.2,2.2,9.8,13.0,PG
+150,Udonis Haslem,Miami Heat,2012,24.8,.423,,7.3,0.7,0.5,0.4,0.9,6.0,10.9,PF
+151,Shane Battier,Miami Heat,2012,23.1,.387,.339,2.4,1.3,1.0,0.5,0.6,4.8,9.7,SF
+152,Joel Anthony,Miami Heat,2012,21.1,.559,,3.9,0.1,0.6,1.3,0.7,3.4,10.3,C
+153,Norris Cole,Miami Heat,2012,19.4,.393,.276,1.4,2.0,0.7,0.0,1.6,6.8,7.9,PG
+154,Mike Miller,Miami Heat,2012,19.3,.435,.453,3.3,1.1,0.4,0.2,0.8,6.1,11.4,SG
+155,Ronny Turiaf,Miami Heat,2012,17.0,.533,.000,4.5,0.4,0.6,1.1,0.6,3.5,12.6,C
+156,Terrel Harris,Miami Heat,2012,14.5,.349,.205,2.3,1.2,0.4,0.1,1.1,3.6,6.7,SG
+157,James Jones,Miami Heat,2012,13.1,.380,.404,1.0,0.4,0.3,0.2,0.2,3.6,9.7,SG
+158,Dexter Pittman,Miami Heat,2012,8.6,.468,,2.0,0.3,0.2,0.2,0.5,3.0,10.4,C
+159,Juwan Howard,Miami Heat,2012,6.8,.309,,1.7,0.4,0.1,0.0,0.7,1.5,3.6,PF
+160,Eddy Curry,Miami Heat,2012,5.9,.462,,0.9,0.1,0.0,0.1,0.7,2.1,3.6,C
+161,Mickell Gladness,Miami Heat,2012,3.5,.333,,1.4,0.3,0.1,0.1,0.4,0.3,1.8,PF
+162,Dirk Nowitzki,Dallas Mavericks,2011,34.3,.517,.393,7.0,2.6,0.5,0.6,1.9,23.0,23.4,PF
+163,Jason Kidd,Dallas Mavericks,2011,33.2,.361,.340,4.4,8.2,1.7,0.4,2.2,7.9,14.4,PG
+164,Jason Terry,Dallas Mavericks,2011,31.3,.451,.362,1.9,4.1,1.1,0.2,2.0,15.8,15.9,SG
+165,Caron Butler,Dallas Mavericks,2011,29.9,.450,.431,4.1,1.6,1.0,0.3,1.7,15.0,14.2,SF
+166,Shawn Marion,Dallas Mavericks,2011,28.2,.520,.152,6.9,1.4,0.9,0.6,1.6,12.5,17.0,SF
+167,Tyson Chandler,Dallas Mavericks,2011,27.8,.654,,9.4,0.4,0.5,1.1,1.2,10.1,18.4,C
+168,J.J. Barea,Dallas Mavericks,2011,20.6,.439,.349,2.0,3.9,0.4,0.0,1.7,9.5,14.8,PG
+169,Peja Stojaković,Dallas Mavericks,2011,20.2,.429,.400,2.6,0.9,0.4,0.1,0.4,8.6,14.1,SF
+170,Brendan Haywood,Dallas Mavericks,2011,18.5,.574,.000,5.2,0.3,0.2,1.0,0.7,4.4,11.7,C
+171,Rodrigue Beaubois,Dallas Mavericks,2011,17.7,.422,.301,1.9,2.3,0.7,0.3,1.7,8.4,11.4,PG
+172,Sasha Pavlović,Dallas Mavericks,2011,16.3,.429,.438,1.2,0.7,0.5,0.3,0.5,4.1,7.8,SF
+173,DeShawn Stevenson,Dallas Mavericks,2011,16.1,.388,.378,1.5,1.1,0.3,0.1,0.6,5.3,9.8,SG
+174,Corey Brewer,Dallas Mavericks,2011,11.4,.490,.308,1.8,0.9,0.8,0.2,0.8,5.3,17.6,SG
+175,Brian Cardinal,Dallas Mavericks,2011,11.0,.430,.483,1.1,0.7,0.4,0.1,0.3,2.6,9.7,SF
+176,Ian Mahinmi,Dallas Mavericks,2011,8.7,.561,.000,2.1,0.1,0.3,0.3,0.4,3.1,13.7,C
+177,Dominique Jones,Dallas Mavericks,2011,7.5,.311,.000,1.4,1.1,0.3,0.2,0.6,2.3,10.6,SG
+178,Alexis Ajinça,Dallas Mavericks,2011,7.5,.375,.429,1.7,0.2,0.3,0.5,0.1,2.9,12.8,C
+179,Steve Novak,Dallas Mavericks,2011,2.6,.500,.750,0.7,0.0,0.0,0.0,0.0,1.6,19.6,SF
+180,Kobe Bryant,Los Angeles Lakers,2010,38.8,.456,.329,5.4,5.0,1.5,0.3,3.2,27.0,21.9,SG
+181,Pau Gasol,Los Angeles Lakers,2010,37.0,.536,.000,11.3,3.4,0.6,1.7,2.2,18.3,22.9,C
+182,Metta World Peace,Los Angeles Lakers,2010,33.8,.414,.355,4.3,3.0,1.4,0.3,1.6,11.0,12.1,SF
+183,Lamar Odom,Los Angeles Lakers,2010,31.5,.463,.319,9.8,3.3,0.9,0.7,1.8,10.8,15.9,PF
+184,Andrew Bynum,Los Angeles Lakers,2010,30.4,.570,.000,8.3,1.0,0.5,1.4,1.8,15.0,20.2,C
+185,Derek Fisher,Los Angeles Lakers,2010,27.2,.380,.348,2.1,2.5,1.1,0.1,1.0,7.5,9.3,PG
+186,Shannon Brown,Los Angeles Lakers,2010,20.7,.427,.328,2.2,1.3,0.7,0.4,0.8,8.1,12.4,SG
+187,Jordan Farmar,Los Angeles Lakers,2010,18.0,.435,.376,1.6,1.5,0.6,0.1,0.9,7.2,12.3,PG
+188,Luke Walton,Los Angeles Lakers,2010,9.4,.357,.412,1.3,1.4,0.3,0.0,0.4,2.4,9.7,SF
+189,Josh Powell,Los Angeles Lakers,2010,9.2,.366,.438,1.8,0.6,0.1,0.1,0.5,2.7,6.7,PF
+190,Sasha Vujačić,Los Angeles Lakers,2010,8.6,.402,.309,1.2,0.6,0.3,0.1,0.3,2.8,11.4,SG
+191,Adam Morrison,Los Angeles Lakers,2010,7.8,.376,.238,1.0,0.6,0.1,0.1,0.3,2.4,7.4,SF
+192,Didier Ilunga-Mbenga,Los Angeles Lakers,2010,7.2,.466,,1.8,0.2,0.1,0.6,0.3,2.1,11.6,C
+193,Pau Gasol,Los Angeles Lakers,2009,37.0,.567,.500,9.6,3.5,0.6,1.0,1.9,18.9,22.2,C
+194,Kobe Bryant,Los Angeles Lakers,2009,36.1,.467,.351,5.2,4.9,1.5,0.5,2.6,26.8,24.4,SG
+195,Derek Fisher,Los Angeles Lakers,2009,29.8,.424,.397,2.3,3.2,1.2,0.1,0.9,9.9,12.1,PG
+196,Lamar Odom,Los Angeles Lakers,2009,29.7,.492,.320,8.2,2.6,1.0,1.3,1.8,11.3,16.6,PF
+197,Andrew Bynum,Los Angeles Lakers,2009,28.9,.560,,8.0,1.4,0.4,1.8,1.7,14.3,20.0,C
+198,Trevor Ariza,Los Angeles Lakers,2009,24.4,.460,.319,4.3,1.8,1.7,0.3,1.1,8.9,15.5,SF
+199,Jordan Farmar,Los Angeles Lakers,2009,18.3,.391,.336,1.8,2.4,0.9,0.2,1.3,6.4,9.9,PG
+200,Luke Walton,Los Angeles Lakers,2009,17.9,.436,.298,2.8,2.7,0.5,0.2,1.1,5.0,11.3,SF
+201,Vladimir Radmanović,Los Angeles Lakers,2009,16.8,.444,.441,2.5,0.8,0.6,0.2,1.0,5.9,11.6,SF
+202,Sasha Vujačić,Los Angeles Lakers,2009,16.2,.387,.363,1.7,1.4,1.0,0.1,0.4,5.8,12.6,SG
+203,Josh Powell,Los Angeles Lakers,2009,11.7,.444,,2.9,0.5,0.2,0.3,0.9,4.2,9.9,PF
+204,Didier Ilunga-Mbenga,Los Angeles Lakers,2009,7.9,.474,.000,1.3,0.4,0.4,1.0,0.6,2.7,13.9,C
+205,Shannon Brown,Los Angeles Lakers,2009,7.6,.524,.667,1.1,0.6,0.2,0.1,0.5,3.2,15.0,SG
+206,Chris Mihm,Los Angeles Lakers,2009,5.8,.375,,1.9,0.6,0.1,0.3,0.6,2.0,10.0,C
+207,Adam Morrison,Los Angeles Lakers,2009,5.5,.333,.250,1.0,0.4,0.0,0.0,0.4,1.3,2.9,SF
+208,Sun Yue,Los Angeles Lakers,2009,2.8,.273,.000,0.0,0.2,0.1,0.1,0.3,0.6,-8.6,SG
+209,Ray Allen,Boston Celtics,2008,35.9,.445,.398,3.7,3.1,0.9,0.2,1.7,17.4,16.4,SG
+210,Paul Pierce,Boston Celtics,2008,35.9,.464,.392,5.1,4.5,1.3,0.5,2.8,19.6,19.6,SF
+211,Kevin Garnett,Boston Celtics,2008,32.8,.539,.000,9.2,3.4,1.4,1.3,1.9,18.8,25.3,PF
+212,Rajon Rondo,Boston Celtics,2008,29.9,.492,.263,4.2,5.1,1.7,0.2,1.9,10.6,15.6,PG
+213,James Posey,Boston Celtics,2008,24.6,.418,.380,4.4,1.5,1.0,0.3,0.9,7.4,12.0,PF
+214,Kendrick Perkins,Boston Celtics,2008,24.5,.615,.000,6.1,1.1,0.4,1.5,1.6,6.9,13.3,C
+215,Eddie House,Boston Celtics,2008,19.0,.409,.393,2.1,1.9,0.8,0.1,1.0,7.5,13.0,PG
+216,Tony Allen,Boston Celtics,2008,18.3,.434,.316,2.2,1.5,0.8,0.3,1.5,6.6,10.7,SG
+217,Sam Cassell,Boston Celtics,2008,17.6,.385,.409,1.8,2.1,0.5,0.2,1.1,7.6,11.0,PG
+218,Leon Powe,Boston Celtics,2008,14.4,.572,.000,4.1,0.3,0.3,0.3,0.8,7.9,20.9,C
+219,Glen Davis,Boston Celtics,2008,13.6,.484,,3.0,0.4,0.4,0.3,0.9,4.5,11.3,C
+220,P.J. Brown,Boston Celtics,2008,11.6,.341,.000,3.8,0.6,0.3,0.4,0.6,2.2,10.2,PF
+221,Brian Scalabrine,Boston Celtics,2008,10.7,.309,.326,1.6,0.8,0.2,0.2,0.5,1.8,5.1,PF
+222,Scot Pollard,Boston Celtics,2008,7.9,.522,,1.7,0.1,0.1,0.3,0.2,1.8,8.7,C
+223,Gabe Pruitt,Boston Celtics,2008,6.3,.359,.250,0.5,0.9,0.3,0.0,0.3,2.1,8.3,PG
+224,Tim Duncan,San Antonio Spurs,2007,34.1,.546,.111,10.6,3.4,0.8,2.4,2.8,20.0,26.1,C
+225,Tony Parker,San Antonio Spurs,2007,32.5,.520,.395,3.2,5.5,1.1,0.1,2.5,18.6,21.4,PG
+226,Bruce Bowen,San Antonio Spurs,2007,30.0,.405,.384,2.7,1.4,0.8,0.3,0.8,6.2,7.1,SF
+227,Manu Ginóbili,San Antonio Spurs,2007,27.5,.464,.396,4.4,3.5,1.5,0.4,2.1,16.5,24.1,SG
+228,James White,San Antonio Spurs,2007,22.8,.439,.286,3.3,0.8,0.5,0.2,0.8,8.3,12.1,SG
+229,Michael Finley,San Antonio Spurs,2007,22.2,.412,.364,2.7,1.3,0.4,0.2,0.6,9.0,13.7,SF
+230,Brent Barry,San Antonio Spurs,2007,21.7,.475,.446,2.1,1.8,0.7,0.2,0.8,8.5,16.6,SG
+231,Francisco Elson,San Antonio Spurs,2007,19.0,.511,.000,4.8,0.8,0.4,0.8,1.2,5.0,11.2,C
+232,Fabricio Oberto,San Antonio Spurs,2007,17.3,.562,,4.7,0.9,0.3,0.3,0.9,4.4,11.9,C
+233,Robert Horry,San Antonio Spurs,2007,16.5,.359,.336,3.4,1.1,0.7,0.6,0.6,3.9,11.9,PF
+234,Beno Udrih,San Antonio Spurs,2007,13.0,.369,.287,1.1,1.7,0.4,0.0,0.8,4.7,10.3,PG
+235,Jacque Vaughn,San Antonio Spurs,2007,11.9,.425,.500,1.1,2.0,0.4,0.0,0.6,3.0,10.9,PG
+236,Matt Bonner,San Antonio Spurs,2007,11.7,.447,.383,2.8,0.4,0.3,0.2,0.4,4.9,16.4,PF
+237,Melvin Ely,San Antonio Spurs,2007,10.8,.300,,2.3,0.7,0.7,0.3,0.8,3.2,6.7,C
+238,Jackie Butler,San Antonio Spurs,2007,9.4,.457,,2.0,0.5,0.2,0.0,0.9,3.7,9.6,C
+239,Eric Williams,San Antonio Spurs,2007,5.5,.441,.471,0.9,0.4,0.1,0.0,0.3,2.6,14.8,SF
+240,Dwyane Wade,Miami Heat,2006,38.6,.495,.171,5.7,6.7,1.9,0.8,3.6,27.2,27.6,SG
+241,Jason Williams,Miami Heat,2006,31.8,.442,.372,2.4,4.9,0.9,0.1,1.7,12.3,15.0,PG
+242,Udonis Haslem,Miami Heat,2006,30.8,.508,.000,7.8,1.2,0.6,0.2,1.0,9.3,13.7,PF
+243,Shaquille O'Neal,Miami Heat,2006,30.6,.600,,9.2,1.9,0.4,1.8,2.8,20.0,24.4,C
+244,James Posey,Miami Heat,2006,28.6,.403,.403,4.8,1.3,0.8,0.3,0.9,7.2,9.8,SF
+245,Gary Payton,Miami Heat,2006,28.5,.420,.287,2.9,3.2,0.9,0.1,1.3,7.7,10.7,PG
+246,Antoine Walker,Miami Heat,2006,26.8,.435,.358,5.1,2.0,0.6,0.4,1.8,12.2,14.4,PF
+247,Derek Anderson,Miami Heat,2006,20.2,.308,.313,2.6,2.1,0.3,0.1,0.7,5.8,8.7,SG
+248,Alonzo Mourning,Miami Heat,2006,20.0,.597,.000,5.5,0.2,0.2,2.7,1.2,7.8,19.4,C
+249,Shandon Anderson,Miami Heat,2006,13.3,.429,.263,1.7,0.6,0.4,0.1,0.5,2.6,6.2,SF
+250,Gerald Fitch,Miami Heat,2006,13.3,.337,.269,1.7,1.8,0.4,0.3,0.8,4.7,10.2,PG
+251,Jason Kapono,Miami Heat,2006,13.0,.446,.396,1.4,0.7,0.1,0.1,0.4,4.1,9.0,SF
+252,Michael Doleac,Miami Heat,2006,12.0,.420,,2.7,0.3,0.3,0.2,0.5,3.2,9.9,C
+253,Wayne Simien,Miami Heat,2006,9.6,.483,,2.0,0.2,0.3,0.0,0.6,3.4,11.5,PF
+254,Dorell Wright,Miami Heat,2006,6.6,.465,.500,1.6,0.4,0.2,0.1,0.7,2.9,13.2,SF
+255,Earl Barron,Miami Heat,2006,5.6,.313,,1.3,0.0,0.0,0.0,0.6,1.6,-2.8,C
+256,Matt Walsh,Miami Heat,2006,1.5,1.000,,0.0,0.0,0.0,0.0,0.5,1.0,-2.4,SG
+257,Tony Parker,San Antonio Spurs,2005,34.2,.482,.276,3.7,6.1,1.2,0.1,2.7,16.6,18.0,PG
+258,Tim Duncan,San Antonio Spurs,2005,33.4,.496,.333,11.1,2.7,0.7,2.6,1.9,20.3,27.0,PF
+259,Bruce Bowen,San Antonio Spurs,2005,32.0,.420,.403,3.5,1.5,0.7,0.5,0.7,8.2,9.5,SF
+260,Manu Ginóbili,San Antonio Spurs,2005,29.6,.471,.376,4.4,3.9,1.6,0.4,2.3,16.0,22.3,SG
+261,Rasho Nesterović,San Antonio Spurs,2005,25.5,.460,,6.6,1.0,0.4,1.7,1.0,5.9,12.0,C
+262,Brent Barry,San Antonio Spurs,2005,21.5,.423,.357,2.3,2.2,0.5,0.2,0.8,7.4,14.0,SG
+263,Robert Horry,San Antonio Spurs,2005,18.6,.419,.370,3.6,1.1,0.9,0.8,0.9,6.0,14.9,PF
+264,Devin Brown,San Antonio Spurs,2005,18.5,.423,.372,2.6,1.4,0.6,0.2,0.8,7.4,14.6,SG
+265,Nazr Mohammed,San Antonio Spurs,2005,18.0,.387,,6.4,0.3,0.2,1.4,1.2,6.2,14.2,C
+266,Glenn Robinson,San Antonio Spurs,2005,17.4,.442,.333,2.7,0.9,0.4,0.3,0.8,10.0,17.2,SF
+267,Malik Rose,San Antonio Spurs,2005,17.2,.464,.000,4.5,0.8,0.6,0.2,1.1,6.3,14.0,PF
+268,Beno Udrih,San Antonio Spurs,2005,14.4,.444,.408,1.0,1.9,0.5,0.1,1.0,5.9,14.3,PG
+269,Tony Massenburg,San Antonio Spurs,2005,11.5,.407,,2.7,0.2,0.3,0.3,0.7,3.2,8.5,PF
+270,Sean Marks,San Antonio Spurs,2005,10.6,.338,.000,2.4,0.3,0.1,0.5,0.6,3.3,8.7,PF
+271,Dion Glover,San Antonio Spurs,2005,9.7,.364,.125,1.6,0.6,0.4,0.4,0.3,3.6,14.0,SG
+272,Linton Johnson,San Antonio Spurs,2005,7.5,.000,.000,1.5,0.0,0.5,0.0,0.5,0.0,-3.4,SF
+273,Mike Wilks,San Antonio Spurs,2005,5.8,.416,.313,0.5,0.7,0.3,0.0,0.3,1.7,11.0,PG
+274,Ben Wallace,Detroit Pistons,2004,37.7,.421,.125,12.4,1.7,1.8,3.0,1.5,9.5,17.3,C
+275,Richard Hamilton,Detroit Pistons,2004,35.5,.455,.265,3.6,4.0,1.3,0.2,2.7,17.6,16.8,SG
+276,Chauncey Billups,Detroit Pistons,2004,35.4,.394,.388,3.5,5.7,1.1,0.1,2.4,16.9,18.6,PG
+277,Tayshaun Prince,Detroit Pistons,2004,32.9,.467,.363,4.8,2.3,0.8,0.8,1.5,10.3,13.3,SF
+278,Rasheed Wallace,Detroit Pistons,2004,30.6,.431,.319,7.0,1.8,1.1,2.0,1.3,13.7,18.8,PF
+279,Mehmet Okur,Detroit Pistons,2004,22.3,.463,.375,5.9,1.0,0.5,0.9,1.4,9.6,18.3,PF
+280,Lindsey Hunter,Detroit Pistons,2004,20.0,.343,.280,2.0,2.6,1.2,0.2,1.0,3.5,9.0,SG
+281,Corliss Williamson,Detroit Pistons,2004,19.9,.505,,3.2,0.7,0.4,0.3,1.4,9.5,14.4,PF
+282,Mike James,Detroit Pistons,2004,19.7,.401,.364,2.2,3.7,1.0,0.0,1.6,6.3,14.3,PG
+283,Chucky Atkins,Detroit Pistons,2004,18.8,.374,.323,1.2,2.4,0.5,0.0,1.2,6.2,10.1,PG
+284,Elden Campbell,Detroit Pistons,2004,13.7,.439,,3.2,0.7,0.3,0.8,1.0,5.6,13.8,C
+285,Bob Sura,Detroit Pistons,2004,13.3,.410,.250,1.9,1.7,0.7,0.2,0.7,3.8,13.0,SG
+286,Željko Rebrača,Detroit Pistons,2004,10.6,.407,,2.3,0.2,0.2,0.4,0.6,3.1,9.6,C
+287,Darvin Ham,Detroit Pistons,2004,9.0,.493,.500,1.7,0.3,0.2,0.1,0.6,1.8,8.3,SF
+288,Hubert Davis,Detroit Pistons,2004,7.7,.000,.000,0.0,0.3,0.0,0.0,0.3,0.0,-7.7,SG
+289,Tremaine Fowlkes,Detroit Pistons,2004,7.3,.313,.125,1.5,0.4,0.3,0.1,0.3,1.2,6.5,SF
+290,Darko Miličić,Detroit Pistons,2004,4.7,.262,.000,1.3,0.2,0.2,0.4,0.4,1.4,6.1,C
+291,Tim Duncan,San Antonio Spurs,2003,39.3,.513,.273,12.9,3.9,0.7,2.9,3.1,23.3,26.9,PF
+292,Tony Parker,San Antonio Spurs,2003,33.8,.464,.337,2.6,5.3,0.9,0.0,2.4,15.5,16.5,PG
+293,Bruce Bowen,San Antonio Spurs,2003,31.3,.466,.441,2.9,1.4,0.8,0.5,0.9,7.1,9.1,SF
+294,Stephen Jackson,San Antonio Spurs,2003,28.2,.435,.320,3.6,2.3,1.6,0.4,2.2,11.8,14.5,SG
+295,David Robinson,San Antonio Spurs,2003,26.2,.469,,7.9,1.0,0.8,1.7,1.3,8.5,17.8,C
+296,Malik Rose,San Antonio Spurs,2003,24.5,.459,.400,6.4,1.6,0.7,0.5,2.2,10.4,16.1,PF
+297,Manu Ginóbili,San Antonio Spurs,2003,20.7,.438,.345,2.3,2.0,1.4,0.2,1.4,7.6,14.7,SG
+298,Steve Smith,San Antonio Spurs,2003,19.5,.388,.331,1.9,1.3,0.5,0.2,0.8,6.8,12.0,SG
+299,Speedy Claxton,San Antonio Spurs,2003,15.7,.462,.000,1.9,2.5,0.7,0.2,1.2,5.8,15.9,PG
+300,Steve Kerr,San Antonio Spurs,2003,12.7,.430,.395,0.8,0.9,0.4,0.0,0.5,4.0,11.4,PG
+301,Kevin Willis,San Antonio Spurs,2003,11.8,.479,.000,3.2,0.3,0.3,0.3,0.8,4.2,12.5,C
+302,Danny Ferry,San Antonio Spurs,2003,9.4,.355,.350,1.2,0.3,0.1,0.1,0.4,1.9,5.1,SF
+303,Anthony Goldwire,San Antonio Spurs,2003,5.1,.278,.250,0.3,0.3,0.3,0.0,0.2,1.2,2.5,PG
+304,Mengke Bateer,San Antonio Spurs,2003,3.8,.235,.333,0.8,0.3,0.0,0.0,0.5,0.8,-8.4,C
+305,Devin Brown,San Antonio Spurs,2003,3.1,.500,,1.0,0.3,0.0,0.0,0.7,1.7,13.8,SG
+306,Kobe Bryant,Los Angeles Lakers,2002,38.3,.469,.250,5.5,5.5,1.5,0.4,2.8,25.2,23.2,SG
+307,Shaquille O'Neal,Los Angeles Lakers,2002,36.1,.579,.000,10.7,3.0,0.6,2.0,2.6,27.2,29.7,C
+308,Derek Fisher,Los Angeles Lakers,2002,28.2,.411,.413,2.1,2.6,0.9,0.1,0.9,11.2,14.0,PG
+309,Rick Fox,Los Angeles Lakers,2002,27.9,.421,.313,4.7,3.5,0.8,0.3,1.6,7.9,11.3,SF
+310,Robert Horry,Los Angeles Lakers,2002,26.4,.398,.374,5.9,2.9,1.0,1.1,1.1,6.8,14.5,PF
+311,Samaki Walker,Los Angeles Lakers,2002,24.0,.512,,7.0,0.9,0.4,1.3,0.8,6.7,14.5,PF
+312,Devean George,Los Angeles Lakers,2002,21.5,.411,.371,3.7,1.4,0.9,0.5,0.8,7.1,12.6,SF
+313,Lindsey Hunter,Los Angeles Lakers,2002,19.7,.382,.380,1.5,1.6,0.8,0.2,0.7,5.8,9.4,PG
+314,Mitch Richmond,Los Angeles Lakers,2002,11.1,.405,.290,1.5,0.9,0.3,0.1,0.6,4.1,10.7,SG
+315,Mark Madsen,Los Angeles Lakers,2002,11.0,.452,.000,2.7,0.7,0.3,0.2,0.4,2.8,12.7,PF
+316,Brian Shaw,Los Angeles Lakers,2002,10.9,.353,.330,1.9,1.5,0.4,0.1,0.6,2.9,11.8,PG
+317,Stanislav Medvedenko,Los Angeles Lakers,2002,10.3,.477,.000,2.2,0.6,0.4,0.2,0.6,4.7,15.6,C
+318,Jelani McCoy,Los Angeles Lakers,2002,5.0,.571,,1.2,0.3,0.0,0.2,0.4,1.2,9.5,C
+319,Joe Crispin,Los Angeles Lakers,2002,4.5,.250,.000,0.2,0.3,0.2,0.0,0.2,1.7,5.0,PG
+320,Mike Penberthy,Los Angeles Lakers,2002,4.0,.500,,0.7,0.7,0.7,0.0,0.0,1.7,31.3,PG
+321,Kobe Bryant,Los Angeles Lakers,2001,40.9,.464,.305,5.9,5.0,1.7,0.6,3.2,28.5,24.5,SG
+322,Shaquille O'Neal,Los Angeles Lakers,2001,39.5,.572,.000,12.7,3.7,0.6,2.8,2.9,28.7,30.2,C
+323,Derek Fisher,Los Angeles Lakers,2001,35.5,.412,.397,3.0,4.4,2.0,0.1,1.5,11.5,14.0,PG
+324,Horace Grant,Los Angeles Lakers,2001,31.0,.462,.000,7.1,1.6,0.7,0.8,0.6,8.5,14.3,PF
+325,Rick Fox,Los Angeles Lakers,2001,27.9,.444,.393,4.0,3.2,0.9,0.4,1.7,9.6,13.8,SF
+326,Ron Harper,Los Angeles Lakers,2001,24.2,.469,.264,3.5,2.4,0.8,0.5,1.3,6.5,12.5,PG
+327,Brian Shaw,Los Angeles Lakers,2001,22.9,.399,.311,3.8,3.2,0.6,0.3,1.2,5.3,10.9,SG
+328,Robert Horry,Los Angeles Lakers,2001,20.1,.387,.346,3.7,1.6,0.7,0.7,1.0,5.2,11.0,PF
+329,Isaiah Rider,Los Angeles Lakers,2001,18.0,.426,.370,2.3,1.7,0.4,0.1,1.5,7.6,11.8,SG
+330,Mike Penberthy,Los Angeles Lakers,2001,16.1,.414,.396,1.2,1.3,0.4,0.0,0.6,5.0,11.2,PG
+331,Tyronn Lue,Los Angeles Lakers,2001,12.3,.427,.324,0.8,1.2,0.5,0.0,0.7,3.4,8.7,PG
+332,Devean George,Los Angeles Lakers,2001,10.1,.309,.221,1.9,0.3,0.3,0.3,0.6,3.1,6.2,SF
+333,Mark Madsen,Los Angeles Lakers,2001,9.2,.487,1.000,2.2,0.3,0.1,0.1,0.4,2.0,9.2,PF
+334,Greg Foster,Los Angeles Lakers,2001,7.3,.421,.333,1.8,0.5,0.1,0.2,0.4,2.0,9.5,C
+335,Stanislav Medvedenko,Los Angeles Lakers,2001,5.6,.480,1.000,1.3,0.3,0.1,0.1,0.4,4.6,21.8,PF
+336,Shaquille O'Neal,Los Angeles Lakers,2000,40.0,.574,.000,13.6,3.8,0.5,3.0,2.8,29.7,30.6,C
+337,Kobe Bryant,Los Angeles Lakers,2000,38.2,.468,.319,6.3,4.9,1.6,0.9,2.8,22.5,21.7,SG
+338,Glen Rice,Los Angeles Lakers,2000,31.6,.430,.367,4.1,2.2,0.6,0.2,1.4,15.9,16.2,SF
+339,Ron Harper,Los Angeles Lakers,2000,25.5,.399,.311,4.2,3.4,1.1,0.5,1.7,7.0,12.0,PG
+340,A.C. Green,Los Angeles Lakers,2000,23.5,.447,.250,5.9,1.0,0.6,0.2,0.6,5.0,11.2,PF
+341,Derek Fisher,Los Angeles Lakers,2000,23.1,.346,.313,1.8,2.8,1.0,0.0,1.0,6.3,9.6,PG
+342,Robert Horry,Los Angeles Lakers,2000,22.2,.438,.309,4.8,1.6,1.1,1.1,1.0,5.7,14.3,PF
+343,Tyronn Lue,Los Angeles Lakers,2000,18.3,.487,.500,1.5,2.1,0.4,0.0,1.1,6.0,10.5,PG
+344,Rick Fox,Los Angeles Lakers,2000,18.0,.414,.326,2.4,1.7,0.6,0.3,1.1,6.5,11.7,SF
+345,Brian Shaw,Los Angeles Lakers,2000,16.9,.382,.310,2.9,2.7,0.5,0.2,1.0,4.1,10.9,SG
+346,John Celestand,Los Angeles Lakers,2000,11.6,.333,.222,0.7,1.3,0.4,0.0,1.0,2.3,2.7,PG
+347,Devean George,Los Angeles Lakers,2000,7.0,.389,.340,1.5,0.2,0.2,0.1,0.4,3.2,12.1,SF
+348,John Salley,Los Angeles Lakers,2000,6.7,.362,,1.4,0.6,0.2,0.3,0.4,1.6,8.3,C
+349,Travis Knight,Los Angeles Lakers,2000,6.5,.390,,2.0,0.4,0.1,0.4,0.4,1.7,9.5,C
+350,Sam Jacobson,Los Angeles Lakers,2000,6.0,.556,,0.3,0.7,0.3,0.0,0.7,3.3,14.1,PG
+351,Tim Duncan,San Antonio Spurs,1999,39.3,.495,.143,11.4,2.4,0.9,2.5,2.9,21.7,23.2,PF
+352,Avery Johnson,San Antonio Spurs,1999,33.4,.473,.083,2.4,7.4,1.0,0.2,2.2,9.7,14.0,PG
+353,David Robinson,San Antonio Spurs,1999,31.7,.509,.000,10.0,2.1,1.4,2.4,2.2,15.8,24.9,C
+354,Sean Elliott,San Antonio Spurs,1999,30.2,.410,.328,4.3,2.3,0.5,0.3,1.4,11.2,12.6,SF
+355,Mario Elie,San Antonio Spurs,1999,27.5,.471,.374,2.9,1.9,1.0,0.3,1.3,9.7,14.5,SG
+356,Jaren Jackson,San Antonio Spurs,1999,18.3,.380,.361,2.1,1.0,0.9,0.2,0.8,6.4,12.5,SG
+357,Steve Kerr,San Antonio Spurs,1999,16.7,.391,.313,1.0,1.1,0.5,0.1,0.5,4.4,9.9,PG
+358,Jerome Kersey,San Antonio Spurs,1999,15.5,.340,.214,2.9,0.9,0.8,0.3,0.7,3.2,7.4,SF
+359,Antonio Daniels,San Antonio Spurs,1999,13.1,.454,.294,1.1,2.3,0.6,0.1,0.9,4.7,16.1,PG
+360,Malik Rose,San Antonio Spurs,1999,12.9,.463,.000,3.9,0.6,0.9,0.5,1.2,6.0,19.7,PF
+361,Will Perdue,San Antonio Spurs,1999,12.0,.633,,3.7,0.5,0.2,0.3,0.6,2.4,11.7,C
+362,Gerard King,San Antonio Spurs,1999,3.3,.429,,0.7,0.2,0.1,0.1,0.2,1.2,13.6,SF
+363,Andrew Gaze,San Antonio Spurs,1999,3.1,.320,.313,0.3,0.3,0.1,0.1,0.2,1.1,8.5,SG
+364,Brandon Williams,San Antonio Spurs,1999,1.3,,,0.3,0.0,0.0,0.0,0.0,0.7,24.4,SG
+365,Michael Jordan,Chicago Bulls,1998,38.8,.465,.238,5.8,3.5,1.7,0.5,2.3,28.7,25.2,SG
+366,Scottie Pippen,Chicago Bulls,1998,37.5,.447,.318,5.2,5.8,1.8,1.0,2.5,19.1,20.4,SF
+367,Dennis Rodman,Chicago Bulls,1998,35.7,.431,.174,15.0,2.9,0.6,0.2,1.8,4.7,12.4,PF
+368,Toni Kukoč,Chicago Bulls,1998,30.2,.455,.362,4.4,4.2,1.0,0.5,2.1,13.3,17.3,SF
+369,Luc Longley,Chicago Bulls,1998,29.4,.455,,5.9,2.8,0.6,1.1,2.2,11.4,13.5,C
+370,Ron Harper,Chicago Bulls,1998,27.9,.441,.190,3.5,2.9,1.3,0.6,1.1,9.3,14.7,PG
+371,Steve Kerr,Chicago Bulls,1998,22.4,.454,.438,1.5,1.9,0.5,0.1,0.5,7.5,12.9,PG
+372,Randy Brown,Chicago Bulls,1998,16.2,.384,.000,1.3,2.1,1.0,0.2,0.9,4.1,10.1,PG
+373,Jason Caffey,Chicago Bulls,1998,13.9,.503,.000,3.4,0.7,0.3,0.3,0.9,5.3,14.4,PF
+374,Scott Burrell,Chicago Bulls,1998,13.7,.424,.354,2.5,0.8,0.8,0.5,0.6,5.2,15.7,SF
+375,Dickey Simpkins,Chicago Bulls,1998,11.3,.634,.000,1.5,0.8,0.2,0.1,0.6,3.7,11.9,PF
+376,Rusty LaRue,Chicago Bulls,1998,10.0,.408,.250,0.6,0.4,0.2,0.1,0.4,3.5,7.3,PG
+377,Bill Wennington,Chicago Bulls,1998,9.7,.436,,1.7,0.4,0.1,0.1,0.3,3.5,9.4,C
+378,Joe Kleine,Chicago Bulls,1998,8.6,.368,,1.7,0.7,0.1,0.1,0.6,2.0,5.5,C
+379,Jud Buechler,Chicago Bulls,1998,8.2,.483,.385,1.0,0.7,0.3,0.2,0.3,2.7,14.1,SF
+380,Keith Booth,Chicago Bulls,1998,2.8,.333,.000,0.7,0.2,0.0,0.0,0.5,1.7,13.8,SF
+381,David Vaughn,Chicago Bulls,1998,2.0,1.000,,0.3,0.0,0.0,0.0,0.0,1.3,23.3,PF
+382,Michael Jordan,Chicago Bulls,1997,37.9,.486,.374,5.9,4.3,1.7,0.5,2.0,29.6,27.8,SG
+383,Scottie Pippen,Chicago Bulls,1997,37.7,.474,.368,6.5,5.7,1.9,0.5,2.6,20.2,21.3,SF
+384,Dennis Rodman,Chicago Bulls,1997,35.4,.448,.263,16.1,3.1,0.6,0.3,2.0,5.7,13.9,PF
+385,Toni Kukoč,Chicago Bulls,1997,28.2,.471,.331,4.6,4.5,1.1,0.5,1.6,13.2,20.2,SF
+386,Luc Longley,Chicago Bulls,1997,24.9,.456,.000,5.6,2.4,0.4,1.1,1.9,9.1,13.4,C
+387,Ron Harper,Chicago Bulls,1997,22.9,.436,.362,2.5,2.5,1.1,0.5,0.7,6.3,13.6,PG
+388,Steve Kerr,Chicago Bulls,1997,22.7,.533,.464,1.6,2.1,0.8,0.0,0.5,8.1,15.6,PG
+389,Jason Caffey,Chicago Bulls,1997,18.7,.532,.000,4.0,1.2,0.3,0.1,1.3,7.3,14.3,PF
+390,Bison Dele,Chicago Bulls,1997,15.3,.413,,3.7,1.3,0.3,0.6,1.2,7.0,13.7,C
+391,Randy Brown,Chicago Bulls,1997,14.7,.420,.182,1.5,1.8,1.1,0.2,0.8,4.7,13.0,PG
+392,Bill Wennington,Chicago Bulls,1997,12.8,.498,.000,2.1,0.7,0.2,0.2,0.5,4.6,11.2,C
+393,Robert Parish,Chicago Bulls,1997,9.4,.490,,2.1,0.5,0.1,0.4,0.7,3.7,14.3,C
+394,Jud Buechler,Chicago Bulls,1997,9.3,.367,.333,1.7,0.8,0.3,0.3,0.4,1.8,9.8,SF
+395,Dickey Simpkins,Chicago Bulls,1997,8.2,.333,.250,1.9,0.6,0.1,0.1,0.7,1.9,6.5,PF
+396,Matt Steigenga,Chicago Bulls,1997,6.0,.250,.000,1.5,1.0,0.5,0.5,1.0,1.5,7.0,SF
+397,Michael Jordan,Chicago Bulls,1996,37.7,.495,.427,6.6,4.3,2.2,0.5,2.4,30.4,29.4,SG
+398,Scottie Pippen,Chicago Bulls,1996,36.7,.463,.374,6.4,5.9,1.7,0.7,2.7,19.4,21.0,SF
+399,Dennis Rodman,Chicago Bulls,1996,32.6,.480,.111,14.9,2.5,0.6,0.4,2.2,5.5,13.6,PF
+400,Luc Longley,Chicago Bulls,1996,26.5,.482,,5.1,1.9,0.4,1.4,1.8,9.1,11.9,C
+401,Toni Kukoč,Chicago Bulls,1996,26.0,.490,.403,4.0,3.5,0.8,0.3,1.4,13.1,20.4,SF
+402,Ron Harper,Chicago Bulls,1996,23.6,.467,.269,2.7,2.6,1.3,0.4,0.9,7.4,14.4,PG
+403,Steve Kerr,Chicago Bulls,1996,23.4,.506,.515,1.3,2.3,0.8,0.0,0.5,8.4,15.2,PG
+404,Bill Wennington,Chicago Bulls,1996,15.0,.493,1.000,2.5,0.6,0.3,0.2,0.5,5.3,11.0,C
+405,Dickey Simpkins,Chicago Bulls,1996,11.4,.481,1.000,2.6,0.6,0.2,0.1,0.9,3.6,10.4,PF
+406,John Salley,Chicago Bulls,1996,11.2,.343,,2.5,0.9,0.5,0.9,0.9,2.1,8.7,PF
+407,Jud Buechler,Chicago Bulls,1996,10.0,.463,.444,1.5,0.8,0.5,0.1,0.5,3.8,14.1,SF
+408,Randy Brown,Chicago Bulls,1996,9.9,.406,.091,1.0,1.1,0.8,0.2,0.5,2.7,11.2,PG
+409,James Edwards,Chicago Bulls,1996,9.8,.373,,1.4,0.4,0.0,0.3,0.8,3.5,3.5,C
+410,Jason Caffey,Chicago Bulls,1996,9.6,.438,.000,1.9,0.4,0.2,0.1,0.8,3.2,7.9,PF
+411,Jack Haley,Chicago Bulls,1996,7.0,.333,,2.0,0.0,0.0,0.0,1.0,5.0,1.8,C
+412,Hakeem Olajuwon,Houston Rockets,1995,39.6,.517,.188,10.8,3.5,1.8,3.4,3.3,27.8,26.0,C
+413,Clyde Drexler,Houston Rockets,1995,37.1,.506,.357,7.0,4.4,1.8,0.7,2.5,21.4,22.1,SG
+414,Otis Thorpe,Houston Rockets,1995,33.0,.563,.000,8.9,1.6,0.6,0.4,2.1,13.3,14.7,PF
+415,Robert Horry,Houston Rockets,1995,32.4,.447,.379,5.1,3.4,1.5,1.2,1.9,10.2,13.5,PF
+416,Vernon Maxwell,Houston Rockets,1995,31.8,.394,.324,2.6,4.3,1.2,0.2,2.1,13.3,11.9,SG
+417,Kenny Smith,Houston Rockets,1995,25.1,.484,.429,1.9,4.0,0.9,0.1,1.5,10.4,16.2,PG
+418,Mario Elie,Houston Rockets,1995,23.4,.499,.398,2.4,2.3,0.8,0.1,1.3,8.8,13.7,SF
+419,Sam Cassell,Houston Rockets,1995,23.0,.427,.330,2.6,4.9,1.1,0.2,2.0,9.5,15.9,PG
+420,Carl Herrera,Houston Rockets,1995,21.8,.523,.000,4.6,0.7,0.7,0.6,1.2,6.8,11.7,PF
+421,Chucky Brown,Houston Rockets,1995,19.9,.603,.333,4.6,0.7,0.3,0.3,0.7,6.1,12.4,SF
+422,Pete Chilcutt,Houston Rockets,1995,19.8,.445,.407,4.7,1.0,0.4,0.6,0.9,5.3,11.0,PF
+423,Charles Jones,Houston Rockets,1995,12.0,.333,,2.3,0.0,0.0,0.3,0.0,1.0,2.6,PF
+424,Tim Breaux,Houston Rockets,1995,8.1,.372,.240,0.8,0.4,0.3,0.1,0.4,3.0,8.9,SF
+425,Tracy Murray,Houston Rockets,1995,8.1,.400,.422,0.9,0.2,0.3,0.1,0.6,3.5,8.2,SF
+426,Scott Brooks,Houston Rockets,1995,6.6,.538,.471,0.5,0.8,0.3,0.0,0.5,3.4,17.3,PG
+427,Žan Tabak,Houston Rockets,1995,4.9,.453,.000,1.5,0.1,0.1,0.2,0.5,2.0,11.2,C
+428,Adrian Caldwell,Houston Rockets,1995,4.3,.250,,1.4,0.0,0.1,0.0,0.1,0.7,4.4,PF
+429,Hakeem Olajuwon,Houston Rockets,1994,41.0,.528,.421,11.9,3.6,1.6,3.7,3.4,27.3,25.3,C
+430,Otis Thorpe,Houston Rockets,1994,35.5,.561,.000,10.6,2.3,0.8,0.3,2.3,14.0,16.1,PF
+431,Vernon Maxwell,Houston Rockets,1994,34.3,.389,.298,3.1,5.1,1.7,0.3,2.5,13.6,12.5,SG
+432,Robert Horry,Houston Rockets,1994,29.3,.459,.324,5.4,2.9,1.5,0.9,1.7,9.9,14.2,SF
+433,Kenny Smith,Houston Rockets,1994,28.3,.480,.405,1.8,4.2,0.8,0.1,1.6,11.6,14.2,PG
+434,Chris Jent,Houston Rockets,1994,26.0,.500,.364,5.0,2.3,0.0,0.0,1.7,10.3,11.0,SF
+435,Mario Elie,Houston Rockets,1994,24.0,.446,.335,2.7,3.1,0.7,0.1,1.6,9.3,13.4,SF
+436,Carl Herrera,Houston Rockets,1994,17.2,.458,,3.8,0.5,0.4,0.3,0.9,4.7,9.1,PF
+437,Sam Cassell,Houston Rockets,1994,17.0,.418,.295,2.0,2.9,0.9,0.1,1.4,6.7,13.1,PG
+438,Scott Brooks,Houston Rockets,1994,16.8,.491,.377,1.4,2.0,0.7,0.0,0.8,5.2,12.2,PG
+439,Earl Cureton,Houston Rockets,1994,15.0,.250,,6.0,0.0,0.0,0.0,0.5,2.0,2.2,PF
+440,Matt Bullard,Houston Rockets,1994,11.2,.345,.325,1.3,1.0,0.2,0.1,0.4,3.5,8.8,PF
+441,Larry Robinson,Houston Rockets,1994,9.2,.500,.250,1.7,1.0,1.2,0.0,1.7,4.2,13.0,SG
+442,Eric Riley,Houston Rockets,1994,4.7,.486,.000,1.3,0.2,0.1,0.2,0.3,1.9,13.4,C
+443,Richard Petruška,Houston Rockets,1994,4.2,.435,.467,1.4,0.0,0.1,0.1,0.7,2.4,12.3,C
+444,Michael Jordan,Chicago Bulls,1993,39.3,.495,.352,6.7,5.5,2.8,0.8,2.7,32.6,29.7,SG
+445,Scottie Pippen,Chicago Bulls,1993,38.6,.473,.237,7.7,6.3,2.1,0.9,3.0,18.6,19.2,SF
+446,Horace Grant,Chicago Bulls,1993,35.6,.508,.200,9.5,2.6,1.2,1.2,1.4,13.2,17.5,PF
+447,B.J. Armstrong,Chicago Bulls,1993,30.4,.499,.453,1.8,4.0,0.8,0.1,1.0,12.3,14.7,PG
+448,Bill Cartwright,Chicago Bulls,1993,19.9,.411,,3.7,1.3,0.3,0.2,1.0,5.6,8.3,C
+449,Scott Williams,Chicago Bulls,1993,19.3,.466,.000,6.4,1.0,0.8,0.9,1.0,5.9,14.6,PF
+450,John Paxson,Chicago Bulls,1993,17.5,.451,.463,0.8,2.3,0.6,0.0,0.5,4.2,9.3,PG
+451,Rodney McCray,Chicago Bulls,1993,15.9,.451,.400,2.5,1.3,0.2,0.2,0.8,3.5,7.6,SF
+452,Stacey King,Chicago Bulls,1993,13.9,.471,.333,2.7,0.9,0.3,0.3,0.9,5.4,12.8,C
+453,Will Perdue,Chicago Bulls,1993,13.9,.557,.000,4.0,1.0,0.3,0.7,1.0,4.7,14.8,C
+454,Trent Tucker,Chicago Bulls,1993,13.2,.485,.397,1.0,1.2,0.3,0.1,0.3,5.2,14.1,SG
+455,Darrell Walker,Chicago Bulls,1993,13.1,.403,,1.4,1.6,0.8,0.1,0.4,2.6,8.9,PG
+456,Ed Nealy,Chicago Bulls,1993,7.2,.435,.200,1.5,0.2,0.3,0.1,0.2,2.1,10.9,PF
+457,Corey Williams,Chicago Bulls,1993,6.9,.365,.333,0.9,0.7,0.1,0.1,0.3,2.3,9.3,PG
+458,Joe Courtney,Chicago Bulls,1993,6.8,.444,,0.4,0.2,0.4,0.2,0.6,2.2,5.6,PF
+459,Ricky Blanton,Chicago Bulls,1993,6.5,.429,,1.5,0.5,1.0,0.0,0.5,3.0,19.3,SF
+460,Jo Jo English,Chicago Bulls,1993,5.2,.300,.000,1.0,0.2,0.5,0.3,0.7,1.0,1.9,SG
+461,Michael Jordan,Chicago Bulls,1992,38.8,.519,.270,6.4,6.1,2.3,0.9,2.5,30.1,27.7,SG
+462,Scottie Pippen,Chicago Bulls,1992,38.6,.506,.200,7.7,7.0,1.9,1.1,3.1,21.0,21.5,SF
+463,Horace Grant,Chicago Bulls,1992,35.3,.578,.000,10.0,2.7,1.2,1.6,1.2,14.2,20.6,PF
+464,John Paxson,Chicago Bulls,1992,24.6,.528,.273,1.2,3.1,0.6,0.1,0.6,7.0,10.9,PG
+465,Bill Cartwright,Chicago Bulls,1992,23.0,.467,,5.1,1.4,0.3,0.2,1.2,8.0,10.9,C
+466,B.J. Armstrong,Chicago Bulls,1992,22.9,.481,.402,1.8,3.2,0.6,0.1,1.1,9.9,14.1,PG
+467,Stacey King,Chicago Bulls,1992,16.1,.506,.400,2.6,1.0,0.3,0.3,1.0,7.0,13.4,PF
+468,Will Perdue,Chicago Bulls,1992,13.1,.547,.500,4.1,1.0,0.2,0.6,0.9,4.5,14.2,C
+469,Cliff Levingston,Chicago Bulls,1992,12.9,.498,.167,2.9,0.8,0.3,0.6,0.5,3.9,13.1,PF
+470,Bob Hansen,Chicago Bulls,1992,11.7,.444,.280,1.1,1.0,0.4,0.0,0.4,2.5,5.8,SG
+471,Scott Williams,Chicago Bulls,1992,11.0,.483,.000,3.9,0.8,0.2,0.6,0.6,3.4,14.6,PF
+472,Craig Hodges,Chicago Bulls,1992,9.9,.384,.375,0.4,1.0,0.3,0.0,0.4,4.3,10.4,SG
+473,Dennis Hopson,Chicago Bulls,1992,5.0,.500,,0.0,0.0,0.5,0.0,0.0,1.0,5.9,SG
+474,Mark Randall,Chicago Bulls,1992,4.5,.455,.000,0.6,0.5,0.0,0.0,0.4,1.7,8.7,PF
+475,Rory Sparrow,Chicago Bulls,1992,4.5,.125,.500,0.3,1.0,0.0,0.0,0.5,0.8,-5.5,PG
+476,Chuck Nevitt,Chicago Bulls,1992,2.3,.333,,0.3,0.3,0.0,0.0,0.8,0.5,-13.6,C
+477,Michael Jordan,Chicago Bulls,1991,37.0,.539,.312,6.0,5.5,2.7,1.0,2.5,31.5,31.6,SG
+478,Scottie Pippen,Chicago Bulls,1991,36.8,.520,.309,7.3,6.2,2.4,1.1,2.8,17.8,20.6,SF
+479,Horace Grant,Chicago Bulls,1991,33.9,.547,.167,8.4,2.3,1.2,0.9,1.2,12.8,17.6,PF
+480,Bill Cartwright,Chicago Bulls,1991,28.8,.490,,6.2,1.6,0.4,0.2,1.4,9.6,11.5,C
+481,John Paxson,Chicago Bulls,1991,24.0,.548,.438,1.1,3.6,0.8,0.0,0.8,8.7,14.0,PG
+482,B.J. Armstrong,Chicago Bulls,1991,21.1,.481,.500,1.8,3.7,0.9,0.0,1.3,8.8,14.8,PG
+483,Stacey King,Chicago Bulls,1991,15.8,.467,.000,2.7,0.9,0.3,0.6,1.2,5.5,10.2,PF
+484,Will Perdue,Chicago Bulls,1991,13.1,.494,.000,4.5,0.6,0.3,0.8,1.0,4.1,13.7,C
+485,Cliff Levingston,Chicago Bulls,1991,13.0,.450,.250,2.9,0.7,0.4,0.6,0.6,4.0,11.5,PF
+486,Dennis Hopson,Chicago Bulls,1991,11.9,.426,.200,1.8,1.1,0.4,0.2,1.0,4.3,10.0,SF
+487,Craig Hodges,Chicago Bulls,1991,11.5,.424,.383,0.6,1.3,0.5,0.0,0.5,5.0,12.4,SG
+488,Scott Williams,Chicago Bulls,1991,6.6,.510,.500,1.9,0.3,0.2,0.3,0.5,2.5,14.7,PF
+489,Isiah Thomas,Detroit Pistons,1990,37.0,.438,.309,3.8,9.4,1.7,0.2,4.0,18.4,17.3,PG
+490,Joe Dumars,Detroit Pistons,1990,34.4,.480,.400,2.8,4.9,0.8,0.0,1.9,17.8,17.2,SG
+491,Bill Laimbeer,Detroit Pistons,1990,33.0,.484,.361,9.6,2.1,0.7,1.0,1.2,12.1,15.8,C
+492,Dennis Rodman,Detroit Pistons,1990,29.0,.581,.111,9.7,0.9,0.6,0.7,1.1,8.8,15.4,SF
+493,James Edwards,Detroit Pistons,1990,27.8,.498,.000,4.2,0.8,0.3,0.5,1.6,14.5,13.3,C
+494,Mark Aguirre,Detroit Pistons,1990,25.7,.488,.333,3.9,1.9,0.4,0.2,1.6,14.1,15.8,SF
+495,Vinnie Johnson,Detroit Pistons,1990,24.0,.431,.147,3.1,3.1,0.9,0.2,1.5,9.8,12.9,SG
+496,John Salley,Detroit Pistons,1990,23.3,.512,.250,5.4,0.8,0.6,1.9,1.2,7.2,13.5,PF
+497,Gerald Henderson,Detroit Pistons,1990,7.3,.506,.452,0.7,1.3,0.2,0.0,0.3,2.3,13.6,PG
+498,William Bedford,Detroit Pistons,1990,5.9,.432,.167,1.4,0.1,0.1,0.4,0.5,2.8,9.5,C
+499,Dave Greenwood,Detroit Pistons,1990,5.5,.423,,2.1,0.3,0.1,0.2,0.4,1.6,10.9,PF
+500,Stan Kimbrough,Detroit Pistons,1990,5.0,.438,,0.7,0.5,0.4,0.0,0.4,1.6,12.1,PG
+501,Scott Hastings,Detroit Pistons,1990,4.2,.303,.250,0.8,0.2,0.1,0.1,0.2,1.1,7.0,PF
+502,Ralph Lewis,Detroit Pistons,1990,1.5,.000,,0.0,0.0,0.0,0.0,0.3,0.0,-17.0,SG
+503,Isiah Thomas,Detroit Pistons,1989,36.6,.464,.273,3.4,8.3,1.7,0.3,3.7,18.2,17.1,PG
+504,Joe Dumars,Detroit Pistons,1989,34.9,.505,.483,2.5,5.7,0.9,0.1,2.6,17.2,16.8,SG
+505,Bill Laimbeer,Detroit Pistons,1989,32.6,.499,.349,9.6,2.2,0.6,1.2,1.6,13.7,16.6,C
+506,Adrian Dantley,Detroit Pistons,1989,31.9,.521,,3.9,2.2,0.5,0.1,1.9,18.4,18.2,SF
+507,Mark Aguirre,Detroit Pistons,1989,29.7,.483,.293,4.2,2.5,0.4,0.2,1.9,15.5,15.1,SF
+508,Dennis Rodman,Detroit Pistons,1989,26.9,.595,.231,9.4,1.2,0.7,0.9,1.5,9.0,16.3,SF
+509,Vinnie Johnson,Detroit Pistons,1989,25.3,.464,.295,3.1,3.0,0.9,0.2,1.3,13.8,17.3,SG
+510,Rick Mahorn,Detroit Pistons,1989,24.9,.517,.000,6.9,0.8,0.6,0.9,1.3,7.3,12.1,PF
+511,John Salley,Detroit Pistons,1989,21.8,.498,.000,5.0,1.1,0.6,1.1,1.5,7.0,12.4,PF
+512,James Edwards,Detroit Pistons,1989,16.5,.500,.000,3.0,0.6,0.1,0.4,0.9,7.3,11.6,C
+513,Micheal Williams,Detroit Pistons,1989,7.3,.364,.222,0.6,1.4,0.3,0.1,0.9,2.6,7.7,PG
+514,John Long,Detroit Pistons,1989,6.3,.475,,0.5,0.6,0.0,0.1,0.4,2.0,8.2,SG
+515,Darryl Dawkins,Detroit Pistons,1989,3.4,.474,,0.5,0.1,0.0,0.1,0.3,1.9,8.2,C
+516,Pace Mannion,Detroit Pistons,1989,2.8,1.000,,0.6,0.0,0.2,0.0,0.0,0.8,14.4,SF
+517,Fennis Dembo,Detroit Pistons,1989,2.4,.333,.000,0.7,0.2,0.0,0.0,0.2,1.2,7.8,SF
+518,Steve Harris,Detroit Pistons,1989,2.3,.250,,0.7,0.0,0.3,0.0,0.0,1.3,18.3,SG
+519,Jim Rowinski,Detroit Pistons,1989,1.3,.000,,0.3,0.0,0.0,0.0,0.0,0.7,17.1,PF
+520,Byron Scott,Los Angeles Lakers,1988,37.6,.527,.346,4.1,4.1,1.9,0.3,2.0,21.7,19.2,SG
+521,Magic Johnson,Los Angeles Lakers,1988,36.6,.492,.196,6.2,11.9,1.6,0.2,3.7,19.6,23.1,PG
+522,James Worthy,Los Angeles Lakers,1988,35.4,.531,.125,5.0,3.9,1.0,0.7,2.1,19.7,18.2,SF
+523,A.C. Green,Los Angeles Lakers,1988,32.1,.503,.000,8.7,1.1,1.1,0.5,1.5,11.4,14.5,PF
+524,Michael Cooper,Los Angeles Lakers,1988,29.4,.392,.320,3.7,4.7,1.1,0.4,1.7,8.7,11.6,SG
+525,Kareem Abdul-Jabbar,Los Angeles Lakers,1988,28.9,.532,.000,6.0,1.7,0.6,1.2,2.0,14.6,15.8,C
+526,Mychal Thompson,Los Angeles Lakers,1988,25.1,.512,.000,6.1,0.8,0.5,1.0,1.4,11.6,14.6,C
+527,Tony Campbell,Los Angeles Lakers,1988,18.6,.564,.333,2.1,1.2,0.8,0.2,2.0,11.0,14.2,SF
+528,Wes Matthews,Los Angeles Lakers,1988,13.8,.460,.233,1.3,2.7,0.5,0.1,1.4,5.7,12.4,PG
+529,Kurt Rambis,Los Angeles Lakers,1988,12.1,.548,,3.8,0.8,0.6,0.2,0.8,4.0,15.0,PF
+530,Milt Wagner,Los Angeles Lakers,1988,9.5,.422,.200,0.7,1.5,0.2,0.1,0.6,3.8,10.4,SG
+531,Mike Smrek,Los Angeles Lakers,1988,8.8,.427,,1.8,0.2,0.1,0.9,0.6,2.8,7.7,C
+532,Ray Tolbert,Los Angeles Lakers,1988,5.9,.571,,1.4,0.4,0.2,0.2,0.8,3.0,15.1,PF
+533,Billy Thompson,Los Angeles Lakers,1988,4.2,.231,,1.0,0.1,0.1,0.0,0.7,1.6,-0.8,SF
+534,Jeff Lamp,Los Angeles Lakers,1988,2.3,,,0.0,0.0,0.0,0.0,0.0,0.7,9.2,SF
+535,Magic Johnson,Los Angeles Lakers,1987,36.3,.522,.205,6.3,12.2,1.7,0.5,3.8,23.9,27.0,PG
+536,James Worthy,Los Angeles Lakers,1987,34.4,.539,.000,5.7,2.8,1.3,1.0,2.0,19.4,18.4,SF
+537,Byron Scott,Los Angeles Lakers,1987,33.3,.489,.436,3.5,3.4,1.5,0.2,1.8,17.0,16.0,SG
+538,Kareem Abdul-Jabbar,Los Angeles Lakers,1987,31.3,.564,.333,6.7,2.6,0.6,1.2,2.4,17.5,17.9,C
+539,A.C. Green,Los Angeles Lakers,1987,28.4,.538,.000,7.8,1.1,0.9,1.0,1.3,10.8,15.7,PF
+540,Michael Cooper,Los Angeles Lakers,1987,27.5,.438,.385,3.1,4.5,1.0,0.5,1.2,10.5,14.0,SG
+541,Mychal Thompson,Los Angeles Lakers,1987,20.6,.480,.000,4.1,0.8,0.4,0.9,1.7,10.1,12.6,PF
+542,Kurt Rambis,Los Angeles Lakers,1987,19.4,.521,,5.8,0.8,0.9,0.5,1.3,5.7,12.6,PF
+543,Billy Thompson,Los Angeles Lakers,1987,12.9,.544,.000,2.9,1.0,0.3,0.5,1.0,5.6,12.8,SF
+544,Frank Brickowski,Los Angeles Lakers,1987,10.9,.564,,2.6,0.3,0.4,0.1,0.7,3.9,10.2,PF
+545,Wes Matthews,Los Angeles Lakers,1987,10.6,.476,.333,0.9,2.0,0.5,0.1,1.0,4.2,11.7,PG
+546,Adrian Branch,Los Angeles Lakers,1987,6.8,.500,.000,1.7,0.5,0.5,0.1,0.8,4.3,18.8,SF
+547,Mike Smrek,Los Angeles Lakers,1987,6.7,.500,,1.1,0.1,0.1,0.4,0.5,2.2,5.0,C
+548,Larry Bird,Boston Celtics,1986,38.0,.496,.423,9.8,6.8,2.0,0.6,3.2,25.8,25.6,SF
+549,Kevin McHale,Boston Celtics,1986,35.3,.574,,8.1,2.7,0.4,2.0,2.2,21.3,21.6,PF
+550,Dennis Johnson,Boston Celtics,1986,35.0,.455,.143,3.4,5.8,1.4,0.4,2.2,15.6,14.7,PG
+551,Robert Parish,Boston Celtics,1986,31.7,.549,,9.5,1.8,0.8,1.4,2.3,16.1,18.8,C
+552,Danny Ainge,Boston Celtics,1986,30.1,.504,.356,2.9,5.1,1.2,0.1,1.6,10.7,13.6,SG
+553,Jerry Sichting,Boston Celtics,1986,19.5,.570,.375,1.3,2.3,0.6,0.0,0.9,6.5,11.9,PG
+554,Bill Walton,Boston Celtics,1986,19.3,.562,,6.8,2.1,0.5,1.3,1.9,7.6,17.0,C
+555,Scott Wedman,Boston Celtics,1986,17.7,.473,.354,2.4,1.1,0.5,0.3,0.7,8.0,12.5,SF
+556,Rick Carlisle,Boston Celtics,1986,9.9,.487,.000,1.0,1.4,0.2,0.1,0.6,2.6,7.9,SG
+557,Sly Williams,Boston Celtics,1986,9.0,.238,.000,2.5,0.3,0.2,0.2,1.2,2.8,-0.6,SF
+558,David Thirdkill,Boston Celtics,1986,7.9,.491,.000,1.4,0.3,0.2,0.1,0.4,3.3,12.1,PF
+559,Sam Vincent,Boston Celtics,1986,7.6,.364,.250,0.8,1.2,0.3,0.1,0.9,3.2,10.0,SG
+560,Greg Kite,Boston Celtics,1986,7.3,.374,.000,2.0,0.3,0.0,0.4,0.5,1.3,4.6,C
+561,Magic Johnson,Los Angeles Lakers,1985,36.1,.561,.189,6.2,12.6,1.5,0.3,4.0,18.3,23.2,PG
+562,James Worthy,Los Angeles Lakers,1985,33.7,.572,.000,6.4,2.5,1.1,0.8,2.5,17.6,17.0,SF
+563,Kareem Abdul-Jabbar,Los Angeles Lakers,1985,33.3,.599,.000,7.9,3.2,0.8,2.1,2.5,22.0,22.9,C
+564,Byron Scott,Los Angeles Lakers,1985,28.5,.539,.433,2.6,3.0,1.2,0.2,1.7,16.0,16.8,SG
+565,Michael Cooper,Los Angeles Lakers,1985,26.7,.465,.285,3.1,5.2,1.1,0.6,1.9,8.6,12.9,SG
+566,Kurt Rambis,Los Angeles Lakers,1985,19.7,.554,,6.4,0.8,1.0,0.6,1.2,5.2,12.7,PF
+567,Bob McAdoo,Los Angeles Lakers,1985,19.0,.520,.000,4.5,1.0,0.3,0.8,1.4,10.5,15.4,C
+568,Jamaal Wilkes,Los Angeles Lakers,1985,18.1,.488,.000,2.2,1.0,0.5,0.1,1.2,8.3,11.0,SF
+569,Larry Spriggs,Los Angeles Lakers,1985,17.2,.548,.000,3.0,1.8,0.6,0.2,1.5,6.7,11.9,PF
+570,Mike McGee,Los Angeles Lakers,1985,15.4,.538,.361,2.2,0.9,0.5,0.1,1.1,10.2,17.3,SF
+571,Mitch Kupchak,Los Angeles Lakers,1985,12.3,.504,,3.2,0.4,0.3,0.3,0.8,5.3,12.5,PF
+572,Ronnie Lester,Los Angeles Lakers,1985,8.7,.415,.000,0.8,2.5,0.5,0.1,1.0,2.8,11.9,PG
+573,Chuck Nevitt,Los Angeles Lakers,1985,5.4,.294,,1.8,0.3,0.0,1.4,0.9,1.1,2.1,C
+574,Earl Jones,Los Angeles Lakers,1985,3.5,.000,,0.0,0.0,0.0,0.0,0.5,0.0,-11.0,C
+575,Larry Bird,Boston Celtics,1984,38.3,.492,.247,10.1,6.6,1.8,0.9,3.0,24.2,24.2,PF
+576,Robert Parish,Boston Celtics,1984,35.8,.546,,10.7,1.7,0.7,1.5,2.3,19.0,19.2,C
+577,Dennis Johnson,Boston Celtics,1984,33.3,.437,.125,3.5,4.2,1.2,0.7,2.2,13.2,12.8,SG
+578,Kevin McHale,Boston Celtics,1984,31.4,.556,.333,7.4,1.3,0.3,1.5,1.8,18.4,20.0,PF
+579,Cedric Maxwell,Boston Celtics,1984,31.3,.532,.167,5.8,2.6,0.8,0.3,2.5,11.9,13.5,SF
+580,Gerald Henderson,Boston Celtics,1984,26.8,.524,.351,1.9,3.8,1.5,0.2,2.1,11.6,14.7,PG
+581,Danny Ainge,Boston Celtics,1984,16.3,.460,.273,1.6,2.3,0.6,0.1,1.0,5.4,10.4,SG
+582,Quinn Buckner,Boston Celtics,1984,15.8,.427,.000,1.7,2.7,1.1,0.0,1.3,4.1,9.4,PG
+583,Scott Wedman,Boston Celtics,1984,13.5,.444,.154,2.0,1.0,0.4,0.1,0.6,4.8,9.9,SF
+584,M.L. Carr,Boston Celtics,1984,9.8,.409,.200,1.3,0.8,0.3,0.1,0.8,3.1,7.8,SF
+585,Greg Kite,Boston Celtics,1984,5.6,.455,,1.8,0.2,0.0,0.1,0.6,1.9,6.8,C
+586,Carlos Clark,Boston Celtics,1984,4.1,.365,.000,0.5,0.5,0.3,0.0,0.4,1.7,12.1,SG
+587,Moses Malone,Philadelphia 76ers,1983,37.5,.501,.000,15.3,1.3,1.1,2.0,3.4,24.5,25.1,C
+588,Julius Erving,Philadelphia 76ers,1983,33.6,.517,.286,6.8,3.7,1.6,1.8,2.7,21.4,23.1,SF
+589,Maurice Cheeks,Philadelphia 76ers,1983,31.2,.542,.167,2.6,6.9,2.3,0.4,2.3,12.5,18.6,PG
+590,Andrew Toney,Philadelphia 76ers,1983,30.5,.501,.289,2.8,4.5,1.0,0.2,3.3,19.7,17.9,SG
+591,Bobby Jones,Philadelphia 76ers,1983,23.6,.543,.000,4.6,1.9,1.1,1.2,1.5,9.0,16.4,PF
+592,Clint Richardson,Philadelphia 76ers,1983,22.8,.463,.000,3.2,2.2,0.9,0.2,1.3,7.6,11.4,SG
+593,Clemon Johnson,Philadelphia 76ers,1983,21.8,.500,,6.4,0.8,0.5,0.9,1.1,6.8,12.8,C
+594,Marc Iavaroni,Philadelphia 76ers,1983,20.2,.462,.000,4.1,1.0,0.4,0.6,1.7,5.1,7.3,PF
+595,Reggie Johnson,Philadelphia 76ers,1983,18.9,.448,,3.1,0.8,0.3,0.6,1.2,5.5,7.4,SF
+596,Franklin Edwards,Philadelphia 76ers,1983,15.6,.472,.000,1.0,2.7,1.0,0.1,1.4,6.7,14.2,PG
+597,Russ Schoene,Philadelphia 76ers,1983,15.3,.512,.000,3.3,0.7,0.3,0.2,1.0,5.1,9.8,PF
+598,Earl Cureton,Philadelphia 76ers,1983,13.5,.419,,3.7,0.6,0.5,0.3,1.0,3.4,8.1,C
+599,Mark McNamara,Philadelphia 76ers,1983,5.1,.453,,2.1,0.2,0.1,0.1,1.0,2.2,7.6,C
+600,J.J. Anderson,Philadelphia 76ers,1983,3.7,.364,.000,0.9,0.1,0.1,0.0,0.4,1.3,3.9,SF
+601,Magic Johnson,Los Angeles Lakers,1982,38.3,.537,.207,9.6,9.5,2.7,0.4,3.7,18.6,22.9,SG
+602,Norm Nixon,Los Angeles Lakers,1982,36.9,.493,.250,2.1,8.0,1.6,0.1,2.9,17.6,15.3,PG
+603,Jamaal Wilkes,Los Angeles Lakers,1982,35.4,.525,.000,4.8,1.7,1.1,0.3,2.0,21.1,16.5,SF
+604,Kareem Abdul-Jabbar,Los Angeles Lakers,1982,35.2,.579,.000,8.7,3.0,0.8,2.7,3.0,23.9,23.4,C
+605,Mitch Kupchak,Los Angeles Lakers,1982,31.6,.573,,8.1,1.3,0.5,0.4,1.7,14.3,15.2,PF
+606,Michael Cooper,Los Angeles Lakers,1982,28.9,.517,.118,3.5,3.0,1.6,0.8,2.0,11.9,14.3,SG
+607,Bob McAdoo,Los Angeles Lakers,1982,18.2,.458,.000,3.9,0.8,0.5,0.9,1.2,9.6,14.4,C
+608,Kurt Rambis,Los Angeles Lakers,1982,17.7,.518,.000,5.4,0.9,0.9,1.2,1.2,4.6,12.8,PF
+609,Mark Landsberger,Los Angeles Lakers,1982,15.1,.438,.000,5.3,0.4,0.1,0.1,0.7,4.3,10.3,PF
+610,Jim Brewer,Los Angeles Lakers,1982,13.6,.463,.167,3.7,0.6,0.5,0.6,0.5,2.4,10.1,PF
+611,Eddie Jordan,Los Angeles Lakers,1982,10.5,.428,.111,0.7,2.3,1.1,0.0,1.1,3.8,12.2,PG
+612,Clay Johnson,Los Angeles Lakers,1982,9.3,.550,,1.7,1.0,0.4,0.4,1.0,3.6,12.8,SG
+613,Mike McGee,Los Angeles Lakers,1982,9.0,.465,.000,1.3,0.4,0.5,0.1,0.9,4.9,11.7,SF
+614,Kevin McKenna,Los Angeles Lakers,1982,6.6,.322,.000,0.8,0.4,0.3,0.1,0.6,1.9,2.8,SG
+615,Larry Bird,Boston Celtics,1981,39.5,.478,.270,10.9,5.5,2.0,0.8,3.5,21.2,19.9,PF
+616,Tiny Archibald,Boston Celtics,1981,35.3,.499,.000,2.2,7.7,0.9,0.2,3.3,13.8,14.3,PG
+617,Cedric Maxwell,Boston Celtics,1981,33.7,.588,.000,6.5,2.7,1.0,0.8,2.2,15.2,17.6,SF
+618,Chris Ford,Boston Celtics,1981,33.2,.444,.330,2.0,3.6,1.2,0.3,1.5,8.9,8.8,SG
+619,Robert Parish,Boston Celtics,1981,28.0,.545,.000,9.5,1.8,1.0,2.6,2.3,18.9,25.2,C
+620,Kevin McHale,Boston Celtics,1981,20.1,.533,.000,4.4,0.7,0.3,1.8,1.3,10.0,16.4,PF
+621,Gerald Henderson,Boston Celtics,1981,19.6,.451,.063,1.6,2.6,1.0,0.1,2.0,7.8,10.4,PG
+622,Rick Robey,Boston Celtics,1981,19.1,.545,.000,4.8,1.5,0.5,0.2,1.7,9.0,14.9,C
+623,M.L. Carr,Boston Celtics,1981,16.0,.449,.071,2.0,1.4,0.7,0.4,1.1,6.0,11.6,SF
+624,Eric Fernsten,Boston Celtics,1981,6.2,.481,,1.4,0.2,0.1,0.2,0.4,2.1,11.0,C
+625,Wayne Kreklow,Boston Celtics,1981,4.0,.234,.250,0.5,0.4,0.1,0.0,0.4,1.2,-1.9,SG
+626,Terry Duerod,Boston Celtics,1981,3.6,.411,.600,0.2,0.2,0.2,0.0,0.3,2.5,14.3,SG
+627,Norm Nixon,Los Angeles Lakers,1980,39.3,.516,.125,2.8,7.8,1.8,0.2,3.5,17.6,14.9,PG
+628,Kareem Abdul-Jabbar,Los Angeles Lakers,1980,38.3,.604,.000,10.8,4.5,1.0,3.4,3.6,24.8,25.3,C
+629,Jamaal Wilkes,Los Angeles Lakers,1980,37.9,.535,.176,6.4,3.0,1.6,0.3,1.9,20.0,17.6,SF
+630,Magic Johnson,Los Angeles Lakers,1980,36.3,.530,.226,7.7,7.3,2.4,0.5,4.0,18.0,20.6,SG
+631,Jim Chones,Los Angeles Lakers,1980,29.2,.489,.000,6.9,1.8,0.7,0.8,2.1,10.6,11.3,C
+632,Michael Cooper,Los Angeles Lakers,1980,24.1,.524,.250,2.8,2.7,1.0,0.5,1.7,8.8,12.5,SG
+633,Spencer Haywood,Los Angeles Lakers,1980,20.3,.487,.250,4.6,1.2,0.5,0.8,1.8,9.7,13.9,PF
+634,Ron Boone,Los Angeles Lakers,1980,17.7,.350,,1.8,1.2,0.8,0.0,2.2,5.7,3.0,SG
+635,Mark Landsberger,Los Angeles Lakers,1980,16.3,.482,,7.1,0.6,0.4,0.2,1.1,7.0,17.0,C
+636,Kenny Carr,Los Angeles Lakers,1980,11.4,.438,,3.4,0.2,0.4,0.2,1.8,3.2,5.2,PF
+637,Don Ford,Los Angeles Lakers,1980,11.2,.508,.000,1.9,0.7,0.2,0.3,0.6,3.0,8.3,SF
+638,Marty Byrnes,Los Angeles Lakers,1980,6.1,.500,,0.8,0.4,0.2,0.0,0.7,2.0,6.3,SF
+639,Ollie Mack,Los Angeles Lakers,1980,5.7,.420,.000,0.8,0.7,0.1,0.0,0.3,1.9,9.1,SG
+640,Brad Holland,Los Angeles Lakers,1980,5.2,.423,.200,0.4,0.6,0.4,0.0,0.3,2.8,14.3,SG
+641,Butch Lee,Los Angeles Lakers,1980,2.8,.308,,0.7,0.8,0.1,0.0,0.6,1.3,12.4,PG

@@ -1,0 +1,643 @@
+,name,team,mpg,fg%,3pfg%,rebounds,assists,steals,blocks,turnovers,points_per_game
+0,LeBron James,Los Angeles Lakers,34.6,.493,.348,7.8,10.2,1.2,0.5,3.9,25.3
+1,Anthony Davis,Los Angeles Lakers,34.4,.503,.330,9.3,3.2,1.5,2.3,2.5,26.1
+2,Kentavious Caldwell-Pope,Los Angeles Lakers,25.5,.467,.385,2.1,1.6,0.8,0.2,0.9,9.3
+3,Kyle Kuzma,Los Angeles Lakers,25.0,.436,.316,4.5,1.3,0.5,0.4,1.5,12.8
+4,Danny Green,Los Angeles Lakers,24.8,.416,.367,3.3,1.3,1.3,0.5,0.9,8.0
+5,Avery Bradley,Los Angeles Lakers,24.2,.444,.364,2.3,1.3,0.9,0.1,1.0,8.6
+6,Dion Waiters,Los Angeles Lakers,23.6,.425,.233,1.9,2.4,0.6,0.6,1.9,11.9
+7,Rajon Rondo,Los Angeles Lakers,20.5,.418,.328,3.0,5.0,0.8,0.0,1.9,7.1
+8,Dwight Howard,Los Angeles Lakers,18.9,.729,.600,7.3,0.7,0.4,1.1,1.2,7.5
+9,Alex Caruso,Los Angeles Lakers,18.4,.412,.333,1.9,1.9,1.1,0.3,0.8,5.5
+10,JaVale McGee,Los Angeles Lakers,16.6,.637,.500,5.7,0.5,0.5,1.4,0.8,6.6
+11,Markieff Morris,Los Angeles Lakers,14.2,.406,.333,3.2,0.6,0.4,0.4,0.4,5.3
+12,Talen Horton-Tucker,Los Angeles Lakers,13.5,.467,.308,1.2,1.0,1.3,0.2,1.0,5.7
+13,J.R. Smith,Los Angeles Lakers,13.2,.318,.091,0.8,0.5,0.2,0.0,0.7,2.8
+14,Quinn Cook,Los Angeles Lakers,11.5,.425,.365,1.2,1.1,0.3,0.0,0.8,5.1
+15,Troy Daniels,Los Angeles Lakers,11.1,.392,.357,1.1,0.3,0.2,0.1,0.2,4.2
+16,Devontae Cacok,Los Angeles Lakers,9.0,.500,,5.0,1.0,0.0,0.0,0.0,6.0
+17,Jared Dudley,Los Angeles Lakers,8.1,.400,.429,1.2,0.6,0.3,0.1,0.2,1.5
+18,Kostas Antetokounmpo,Los Angeles Lakers,4.0,1.000,,0.6,0.4,0.0,0.0,0.2,1.4
+19,Zach Norvell,Los Angeles Lakers,2.5,.000,,0.5,0.0,0.0,0.0,0.0,0.0
+20,Kawhi Leonard,Toronto Raptors,34.0,.496,.371,7.3,3.3,1.8,0.4,2.0,26.6
+21,Kyle Lowry,Toronto Raptors,34.0,.411,.347,4.8,8.7,1.4,0.5,2.8,14.2
+22,Pascal Siakam,Toronto Raptors,31.9,.549,.369,6.9,3.1,0.9,0.7,1.9,16.9
+23,Danny Green,Toronto Raptors,27.7,.465,.455,4.0,1.6,0.9,0.7,0.9,10.3
+24,Fred VanVleet,Toronto Raptors,27.5,.410,.378,2.6,4.8,0.9,0.3,1.3,11.0
+25,Serge Ibaka,Toronto Raptors,27.2,.529,.290,8.1,1.3,0.4,1.4,1.5,15.0
+26,Marc Gasol,Toronto Raptors,24.9,.465,.442,6.6,3.9,0.9,0.9,1.4,9.1
+27,OG Anunoby,Toronto Raptors,20.2,.453,.332,2.9,0.7,0.7,0.3,0.8,7.0
+28,Jeremy Lin,Toronto Raptors,18.8,.374,.200,2.6,2.2,0.4,0.3,1.1,7.0
+29,Jonas Valančiūnas,Toronto Raptors,18.8,.575,.300,7.2,1.0,0.4,0.8,1.3,12.8
+30,Norman Powell,Toronto Raptors,18.8,.483,.400,2.3,1.5,0.7,0.2,1.1,8.6
+31,Delon Wright,Toronto Raptors,18.3,.433,.333,2.6,2.2,0.9,0.3,0.8,6.9
+32,C.J. Miles,Toronto Raptors,14.1,.340,.314,1.7,0.6,0.5,0.3,0.5,5.5
+33,Patrick McCaw,Toronto Raptors,13.2,.444,.333,1.7,1.0,0.8,0.1,0.5,2.7
+34,Jodie Meeks,Toronto Raptors,13.0,.538,.444,1.5,1.0,0.1,0.1,0.3,6.4
+35,Greg Monroe,Toronto Raptors,11.1,.460,.000,4.1,0.4,0.3,0.2,0.8,4.8
+36,Eric Moreland,Toronto Raptors,9.5,.429,1.000,4.3,1.0,0.3,0.3,1.3,1.8
+37,Lorenzo Brown,Toronto Raptors,8.2,.324,.214,1.2,1.1,0.5,0.2,0.6,2.1
+38,Malcolm Miller,Toronto Raptors,6.7,.423,.476,0.5,0.1,0.1,0.1,0.1,3.5
+39,Chris Boucher,Toronto Raptors,5.8,.447,.324,2.0,0.1,0.2,0.9,0.3,3.3
+40,Malachi Richardson,Toronto Raptors,4.7,.310,.320,0.6,0.0,0.0,0.0,0.4,1.4
+41,Jordan Loyd,Toronto Raptors,4.6,.444,.500,0.8,0.5,0.0,0.0,0.2,2.4
+42,Klay Thompson,Golden State Warriors,34.3,.488,.440,3.8,2.5,0.8,0.5,1.8,20.0
+43,Kevin Durant,Golden State Warriors,34.2,.516,.419,6.8,5.4,0.7,1.8,3.0,26.4
+44,Draymond Green,Golden State Warriors,32.7,.454,.301,7.6,7.3,1.4,1.3,2.9,11.0
+45,Stephen Curry,Golden State Warriors,32.0,.495,.423,5.1,6.1,1.6,0.2,3.0,26.4
+46,Andre Iguodala,Golden State Warriors,25.3,.463,.282,3.8,3.3,0.8,0.6,1.0,6.0
+47,Quinn Cook,Golden State Warriors,22.4,.484,.442,2.5,2.7,0.4,0.0,1.0,9.5
+48,Nick Young,Golden State Warriors,17.4,.412,.377,1.6,0.5,0.5,0.1,0.5,7.3
+49,Patrick McCaw,Golden State Warriors,16.9,.409,.238,1.4,1.4,0.8,0.2,0.7,4.0
+50,Shaun Livingston,Golden State Warriors,15.9,.501,.000,1.8,2.0,0.5,0.3,0.8,5.5
+51,Jordan Bell,Golden State Warriors,14.2,.627,.000,3.6,1.8,0.6,1.0,0.9,4.6
+52,Zaza Pachulia,Golden State Warriors,14.1,.564,.000,4.7,1.6,0.6,0.2,1.0,5.4
+53,Omri Casspi,Golden State Warriors,14.0,.580,.455,3.8,1.0,0.3,0.4,0.7,5.7
+54,Kevon Looney,Golden State Warriors,13.8,.580,.200,3.3,0.6,0.5,0.8,0.5,4.0
+55,David West,Golden State Warriors,13.7,.571,.375,3.3,1.9,0.6,1.0,1.1,6.8
+56,JaVale McGee,Golden State Warriors,9.5,.621,.000,2.6,0.5,0.3,0.9,0.4,4.8
+57,Damian Jones,Golden State Warriors,5.9,.500,,0.9,0.1,0.1,0.2,0.3,1.7
+58,Chris Boucher,Golden State Warriors,1.0,.000,.000,1.0,0.0,0.0,0.0,0.0,0.0
+59,Klay Thompson,Golden State Warriors,34.0,.468,.414,3.7,2.1,0.8,0.5,1.6,22.3
+60,Stephen Curry,Golden State Warriors,33.4,.468,.411,4.5,6.6,1.8,0.2,3.0,25.3
+61,Kevin Durant,Golden State Warriors,33.4,.537,.375,8.3,4.8,1.1,1.6,2.2,25.1
+62,Draymond Green,Golden State Warriors,32.5,.418,.308,7.9,7.0,2.0,1.4,2.4,10.2
+63,Andre Iguodala,Golden State Warriors,26.3,.528,.362,4.0,3.4,1.0,0.5,0.8,7.6
+64,Matt Barnes,Golden State Warriors,20.5,.422,.346,4.6,2.3,0.6,0.5,1.2,5.7
+65,Zaza Pachulia,Golden State Warriors,18.1,.534,.000,5.9,1.9,0.8,0.5,1.2,6.1
+66,Shaun Livingston,Golden State Warriors,17.7,.547,.333,2.0,1.8,0.5,0.3,0.8,5.1
+67,Patrick McCaw,Golden State Warriors,15.1,.433,.333,1.4,1.1,0.5,0.2,0.5,4.0
+68,Ian Clark,Golden State Warriors,14.8,.487,.374,1.6,1.2,0.5,0.1,0.7,6.8
+69,David West,Golden State Warriors,12.6,.536,.375,3.0,2.2,0.6,0.7,1.1,4.6
+70,JaVale McGee,Golden State Warriors,9.6,.652,.000,3.2,0.2,0.2,0.9,0.5,6.1
+71,James Michael McAdoo,Golden State Warriors,8.8,.530,.250,1.8,0.3,0.3,0.6,0.4,2.8
+72,Damian Jones,Golden State Warriors,8.5,.500,,2.3,0.0,0.1,0.4,0.6,1.9
+73,Kevon Looney,Golden State Warriors,8.4,.523,.222,2.3,0.5,0.3,0.3,0.3,2.5
+74,Anderson Varejão,Golden State Warriors,6.6,.357,,1.9,0.7,0.2,0.2,0.6,1.3
+75,Briante Weber,Golden State Warriors,6.6,.357,.000,0.6,0.7,0.4,0.1,0.4,1.7
+76,Dahntay Jones,Cleveland Cavaliers,42.0,.429,.500,5.0,2.0,1.0,2.0,0.0,13.0
+77,LeBron James,Cleveland Cavaliers,35.6,.520,.309,7.4,6.8,1.4,0.6,3.3,25.3
+78,Kyrie Irving,Cleveland Cavaliers,31.5,.448,.321,3.0,4.7,1.1,0.3,2.3,19.6
+79,Kevin Love,Cleveland Cavaliers,31.5,.419,.360,9.9,2.4,0.8,0.5,1.8,16.0
+80,J.R. Smith,Cleveland Cavaliers,30.7,.415,.400,2.8,1.7,1.1,0.3,0.8,12.4
+81,Tristan Thompson,Cleveland Cavaliers,27.7,.588,,9.0,0.8,0.5,0.6,0.7,7.8
+82,Matthew Dellavedova,Cleveland Cavaliers,24.6,.405,.410,2.1,4.4,0.6,0.1,1.5,7.5
+83,Iman Shumpert,Cleveland Cavaliers,24.4,.374,.295,3.8,1.7,1.0,0.4,1.1,5.8
+84,Mo Williams,Cleveland Cavaliers,18.2,.437,.353,1.8,2.4,0.3,0.1,1.4,8.2
+85,Richard Jefferson,Cleveland Cavaliers,17.9,.458,.382,1.7,0.8,0.4,0.2,0.6,5.5
+86,Timofey Mozgov,Cleveland Cavaliers,17.4,.565,.143,4.4,0.4,0.3,0.8,0.9,6.3
+87,Channing Frye,Cleveland Cavaliers,17.2,.441,.377,3.6,1.0,0.3,0.3,0.5,7.5
+88,Anderson Varejão,Cleveland Cavaliers,10.0,.421,.000,2.9,0.6,0.4,0.2,0.5,2.6
+89,James Jones,Cleveland Cavaliers,9.6,.408,.394,1.0,0.3,0.2,0.2,0.3,3.7
+90,Jared Cunningham,Cleveland Cavaliers,8.9,.352,.313,0.7,0.5,0.3,0.1,0.5,2.6
+91,Jordan McRae,Cleveland Cavaliers,7.5,.442,.636,0.8,1.0,0.0,0.1,0.6,4.1
+92,Sasha Kaun,Cleveland Cavaliers,3.8,.529,,1.0,0.1,0.2,0.2,0.3,0.9
+93,Joe Harris,Cleveland Cavaliers,3.0,.250,.250,0.6,0.4,0.0,0.0,0.2,0.6
+94,Stephen Curry,Golden State Warriors,32.7,.487,.443,4.3,7.7,2.0,0.2,3.1,23.8
+95,Klay Thompson,Golden State Warriors,31.9,.463,.439,3.2,2.9,1.1,0.8,1.9,21.7
+96,Draymond Green,Golden State Warriors,31.5,.443,.337,8.2,3.7,1.6,1.3,1.7,11.7
+97,Harrison Barnes,Golden State Warriors,28.3,.482,.405,5.5,1.4,0.7,0.2,0.9,10.1
+98,Andre Iguodala,Golden State Warriors,26.9,.466,.349,3.3,3.0,1.2,0.3,1.1,7.8
+99,Andrew Bogut,Golden State Warriors,23.6,.563,,8.1,2.7,0.6,1.7,1.6,6.3
+100,Shaun Livingston,Golden State Warriors,18.8,.500,.000,2.3,3.3,0.6,0.3,1.3,5.9
+101,David Lee,Golden State Warriors,18.4,.511,.000,5.2,1.7,0.6,0.5,1.0,7.9
+102,Marreese Speights,Golden State Warriors,15.9,.492,.278,4.3,0.9,0.3,0.4,1.1,10.4
+103,Leandro Barbosa,Golden State Warriors,14.9,.474,.384,1.4,1.5,0.6,0.1,0.7,7.1
+104,Justin Holiday,Golden State Warriors,11.1,.387,.321,1.2,0.8,0.7,0.2,0.5,4.3
+105,Festus Ezeli,Golden State Warriors,11.0,.547,,3.4,0.2,0.2,0.9,0.7,4.4
+106,James Michael McAdoo,Golden State Warriors,9.1,.545,,2.5,0.1,0.3,0.6,0.4,4.1
+107,Brandon Rush,Golden State Warriors,8.2,.204,.111,1.2,0.4,0.2,0.4,0.3,0.9
+108,Ognjen Kuzmić,Golden State Warriors,4.5,.667,,1.1,0.4,0.1,0.1,0.3,1.3
+109,Tony Parker,San Antonio Spurs,29.4,.499,.373,2.3,5.7,0.5,0.1,2.2,16.7
+110,Tim Duncan,San Antonio Spurs,29.2,.490,.000,9.7,3.0,0.6,1.9,2.1,15.1
+111,Kawhi Leonard,San Antonio Spurs,29.1,.522,.379,6.2,2.0,1.7,0.8,1.2,12.8
+112,Marco Belinelli,San Antonio Spurs,25.2,.485,.430,2.8,2.2,0.6,0.1,1.2,11.4
+113,Boris Diaw,San Antonio Spurs,25.0,.521,.402,4.1,2.8,0.6,0.4,1.5,9.1
+114,Danny Green,San Antonio Spurs,24.3,.432,.415,3.4,1.5,1.0,0.9,1.1,9.1
+115,Manu Ginóbili,San Antonio Spurs,22.8,.469,.349,3.0,4.3,1.0,0.3,2.0,12.3
+116,Tiago Splitter,San Antonio Spurs,21.5,.523,.000,6.2,1.5,0.5,0.5,1.3,8.2
+117,Patty Mills,San Antonio Spurs,18.9,.464,.425,2.1,1.8,0.8,0.1,0.8,10.2
+118,Malcolm Thomas,San Antonio Spurs,15.0,.250,,9.0,0.0,0.0,2.0,1.0,2.0
+119,Cory Joseph,San Antonio Spurs,13.8,.475,.316,1.6,1.7,0.5,0.2,0.6,5.0
+120,Jeff Ayres,San Antonio Spurs,13.0,.580,,3.5,0.8,0.2,0.3,0.9,3.3
+121,Nando De Colo,San Antonio Spurs,11.6,.452,.323,1.7,1.2,0.6,0.1,0.8,4.3
+122,Matt Bonner,San Antonio Spurs,11.3,.445,.429,2.1,0.5,0.2,0.2,0.3,3.2
+123,Shannon Brown,San Antonio Spurs,10.3,.286,.000,1.3,0.5,0.1,0.0,0.8,2.3
+124,Damion James,San Antonio Spurs,10.0,.222,.000,2.4,0.6,0.0,0.2,0.2,1.2
+125,Aron Baynes,San Antonio Spurs,9.3,.436,,2.7,0.6,0.0,0.1,0.7,3.0
+126,Othyus Jeffers,San Antonio Spurs,8.5,.600,.000,1.5,0.3,0.0,0.0,0.0,1.8
+127,Austin Daye,San Antonio Spurs,8.2,.382,.414,1.4,0.4,0.3,0.3,0.4,4.1
+128,LeBron James,Miami Heat,37.9,.565,.406,8.0,7.3,1.7,0.9,3.0,26.8
+129,Dwyane Wade,Miami Heat,34.7,.521,.258,5.0,5.1,1.9,0.8,2.8,21.2
+130,Chris Bosh,Miami Heat,33.2,.535,.284,6.8,1.7,0.9,1.4,1.7,16.6
+131,Mario Chalmers,Miami Heat,26.9,.429,.409,2.2,3.5,1.5,0.2,1.5,8.6
+132,Ray Allen,Miami Heat,25.8,.449,.419,2.7,1.7,0.8,0.2,1.3,10.9
+133,Shane Battier,Miami Heat,24.8,.420,.430,2.3,1.0,0.6,0.8,0.5,6.6
+134,Norris Cole,Miami Heat,19.9,.421,.357,1.6,2.1,0.7,0.1,1.3,5.6
+135,Udonis Haslem,Miami Heat,18.9,.514,,5.4,0.5,0.4,0.2,0.6,3.9
+136,Mike Miller,Miami Heat,15.3,.433,.417,2.7,1.7,0.4,0.1,0.6,4.8
+137,Chris Andersen,Miami Heat,14.9,.577,.667,4.1,0.4,0.4,1.0,0.6,4.9
+138,Rashard Lewis,Miami Heat,14.4,.414,.389,2.2,0.5,0.4,0.3,0.6,5.2
+139,Joel Anthony,Miami Heat,9.1,.515,,1.9,0.2,0.2,0.7,0.4,1.4
+140,Juwan Howard,Miami Heat,7.3,.526,,1.1,0.9,0.0,0.0,0.6,3.0
+141,James Jones,Miami Heat,5.8,.344,.302,0.6,0.3,0.1,0.2,0.1,1.6
+142,Josh Harrellson,Miami Heat,5.2,.444,.200,1.2,0.0,0.2,0.2,0.5,1.7
+143,Jarvis Varnado,Miami Heat,5.0,.333,,0.8,0.3,0.0,0.3,0.6,0.3
+144,Terrel Harris,Miami Heat,4.1,.250,.000,1.3,0.3,0.0,0.0,0.6,1.4
+145,Dexter Pittman,Miami Heat,3.0,.600,,1.8,0.0,0.0,0.0,0.5,1.5
+146,LeBron James,Miami Heat,37.5,.531,.362,7.9,6.2,1.9,0.8,3.4,27.1
+147,Chris Bosh,Miami Heat,35.2,.487,.286,7.9,1.8,0.9,0.8,2.1,18.0
+148,Dwyane Wade,Miami Heat,33.2,.497,.268,4.8,4.6,1.7,1.3,2.6,22.1
+149,Mario Chalmers,Miami Heat,28.5,.448,.388,2.7,3.5,1.5,0.2,2.2,9.8
+150,Udonis Haslem,Miami Heat,24.8,.423,,7.3,0.7,0.5,0.4,0.9,6.0
+151,Shane Battier,Miami Heat,23.1,.387,.339,2.4,1.3,1.0,0.5,0.6,4.8
+152,Joel Anthony,Miami Heat,21.1,.559,,3.9,0.1,0.6,1.3,0.7,3.4
+153,Norris Cole,Miami Heat,19.4,.393,.276,1.4,2.0,0.7,0.0,1.6,6.8
+154,Mike Miller,Miami Heat,19.3,.435,.453,3.3,1.1,0.4,0.2,0.8,6.1
+155,Ronny Turiaf,Miami Heat,17.0,.533,.000,4.5,0.4,0.6,1.1,0.6,3.5
+156,Terrel Harris,Miami Heat,14.5,.349,.205,2.3,1.2,0.4,0.1,1.1,3.6
+157,James Jones,Miami Heat,13.1,.380,.404,1.0,0.4,0.3,0.2,0.2,3.6
+158,Dexter Pittman,Miami Heat,8.6,.468,,2.0,0.3,0.2,0.2,0.5,3.0
+159,Juwan Howard,Miami Heat,6.8,.309,,1.7,0.4,0.1,0.0,0.7,1.5
+160,Eddy Curry,Miami Heat,5.9,.462,,0.9,0.1,0.0,0.1,0.7,2.1
+161,Mickell Gladness,Miami Heat,3.5,.333,,1.4,0.3,0.1,0.1,0.4,0.3
+162,Dirk Nowitzki,Dallas Mavericks,34.3,.517,.393,7.0,2.6,0.5,0.6,1.9,23.0
+163,Jason Kidd,Dallas Mavericks,33.2,.361,.340,4.4,8.2,1.7,0.4,2.2,7.9
+164,Jason Terry,Dallas Mavericks,31.3,.451,.362,1.9,4.1,1.1,0.2,2.0,15.8
+165,Caron Butler,Dallas Mavericks,29.9,.450,.431,4.1,1.6,1.0,0.3,1.7,15.0
+166,Shawn Marion,Dallas Mavericks,28.2,.520,.152,6.9,1.4,0.9,0.6,1.6,12.5
+167,Tyson Chandler,Dallas Mavericks,27.8,.654,,9.4,0.4,0.5,1.1,1.2,10.1
+168,J.J. Barea,Dallas Mavericks,20.6,.439,.349,2.0,3.9,0.4,0.0,1.7,9.5
+169,Peja Stojaković,Dallas Mavericks,20.2,.429,.400,2.6,0.9,0.4,0.1,0.4,8.6
+170,Brendan Haywood,Dallas Mavericks,18.5,.574,.000,5.2,0.3,0.2,1.0,0.7,4.4
+171,Rodrigue Beaubois,Dallas Mavericks,17.7,.422,.301,1.9,2.3,0.7,0.3,1.7,8.4
+172,Sasha Pavlović,Dallas Mavericks,16.3,.429,.438,1.2,0.7,0.5,0.3,0.5,4.1
+173,DeShawn Stevenson,Dallas Mavericks,16.1,.388,.378,1.5,1.1,0.3,0.1,0.6,5.3
+174,Corey Brewer,Dallas Mavericks,11.4,.490,.308,1.8,0.9,0.8,0.2,0.8,5.3
+175,Brian Cardinal,Dallas Mavericks,11.0,.430,.483,1.1,0.7,0.4,0.1,0.3,2.6
+176,Ian Mahinmi,Dallas Mavericks,8.7,.561,.000,2.1,0.1,0.3,0.3,0.4,3.1
+177,Dominique Jones,Dallas Mavericks,7.5,.311,.000,1.4,1.1,0.3,0.2,0.6,2.3
+178,Alexis Ajinça,Dallas Mavericks,7.5,.375,.429,1.7,0.2,0.3,0.5,0.1,2.9
+179,Steve Novak,Dallas Mavericks,2.6,.500,.750,0.7,0.0,0.0,0.0,0.0,1.6
+180,Kobe Bryant,Los Angeles Lakers,38.8,.456,.329,5.4,5.0,1.5,0.3,3.2,27.0
+181,Pau Gasol,Los Angeles Lakers,37.0,.536,.000,11.3,3.4,0.6,1.7,2.2,18.3
+182,Metta World Peace,Los Angeles Lakers,33.8,.414,.355,4.3,3.0,1.4,0.3,1.6,11.0
+183,Lamar Odom,Los Angeles Lakers,31.5,.463,.319,9.8,3.3,0.9,0.7,1.8,10.8
+184,Andrew Bynum,Los Angeles Lakers,30.4,.570,.000,8.3,1.0,0.5,1.4,1.8,15.0
+185,Derek Fisher,Los Angeles Lakers,27.2,.380,.348,2.1,2.5,1.1,0.1,1.0,7.5
+186,Shannon Brown,Los Angeles Lakers,20.7,.427,.328,2.2,1.3,0.7,0.4,0.8,8.1
+187,Jordan Farmar,Los Angeles Lakers,18.0,.435,.376,1.6,1.5,0.6,0.1,0.9,7.2
+188,Luke Walton,Los Angeles Lakers,9.4,.357,.412,1.3,1.4,0.3,0.0,0.4,2.4
+189,Josh Powell,Los Angeles Lakers,9.2,.366,.438,1.8,0.6,0.1,0.1,0.5,2.7
+190,Sasha Vujačić,Los Angeles Lakers,8.6,.402,.309,1.2,0.6,0.3,0.1,0.3,2.8
+191,Adam Morrison,Los Angeles Lakers,7.8,.376,.238,1.0,0.6,0.1,0.1,0.3,2.4
+192,Didier Ilunga-Mbenga,Los Angeles Lakers,7.2,.466,,1.8,0.2,0.1,0.6,0.3,2.1
+193,Pau Gasol,Los Angeles Lakers,37.0,.567,.500,9.6,3.5,0.6,1.0,1.9,18.9
+194,Kobe Bryant,Los Angeles Lakers,36.1,.467,.351,5.2,4.9,1.5,0.5,2.6,26.8
+195,Derek Fisher,Los Angeles Lakers,29.8,.424,.397,2.3,3.2,1.2,0.1,0.9,9.9
+196,Lamar Odom,Los Angeles Lakers,29.7,.492,.320,8.2,2.6,1.0,1.3,1.8,11.3
+197,Andrew Bynum,Los Angeles Lakers,28.9,.560,,8.0,1.4,0.4,1.8,1.7,14.3
+198,Trevor Ariza,Los Angeles Lakers,24.4,.460,.319,4.3,1.8,1.7,0.3,1.1,8.9
+199,Jordan Farmar,Los Angeles Lakers,18.3,.391,.336,1.8,2.4,0.9,0.2,1.3,6.4
+200,Luke Walton,Los Angeles Lakers,17.9,.436,.298,2.8,2.7,0.5,0.2,1.1,5.0
+201,Vladimir Radmanović,Los Angeles Lakers,16.8,.444,.441,2.5,0.8,0.6,0.2,1.0,5.9
+202,Sasha Vujačić,Los Angeles Lakers,16.2,.387,.363,1.7,1.4,1.0,0.1,0.4,5.8
+203,Josh Powell,Los Angeles Lakers,11.7,.444,,2.9,0.5,0.2,0.3,0.9,4.2
+204,Didier Ilunga-Mbenga,Los Angeles Lakers,7.9,.474,.000,1.3,0.4,0.4,1.0,0.6,2.7
+205,Shannon Brown,Los Angeles Lakers,7.6,.524,.667,1.1,0.6,0.2,0.1,0.5,3.2
+206,Chris Mihm,Los Angeles Lakers,5.8,.375,,1.9,0.6,0.1,0.3,0.6,2.0
+207,Adam Morrison,Los Angeles Lakers,5.5,.333,.250,1.0,0.4,0.0,0.0,0.4,1.3
+208,Sun Yue,Los Angeles Lakers,2.8,.273,.000,0.0,0.2,0.1,0.1,0.3,0.6
+209,Ray Allen,Boston Celtics,35.9,.445,.398,3.7,3.1,0.9,0.2,1.7,17.4
+210,Paul Pierce,Boston Celtics,35.9,.464,.392,5.1,4.5,1.3,0.5,2.8,19.6
+211,Kevin Garnett,Boston Celtics,32.8,.539,.000,9.2,3.4,1.4,1.3,1.9,18.8
+212,Rajon Rondo,Boston Celtics,29.9,.492,.263,4.2,5.1,1.7,0.2,1.9,10.6
+213,James Posey,Boston Celtics,24.6,.418,.380,4.4,1.5,1.0,0.3,0.9,7.4
+214,Kendrick Perkins,Boston Celtics,24.5,.615,.000,6.1,1.1,0.4,1.5,1.6,6.9
+215,Eddie House,Boston Celtics,19.0,.409,.393,2.1,1.9,0.8,0.1,1.0,7.5
+216,Tony Allen,Boston Celtics,18.3,.434,.316,2.2,1.5,0.8,0.3,1.5,6.6
+217,Sam Cassell,Boston Celtics,17.6,.385,.409,1.8,2.1,0.5,0.2,1.1,7.6
+218,Leon Powe,Boston Celtics,14.4,.572,.000,4.1,0.3,0.3,0.3,0.8,7.9
+219,Glen Davis,Boston Celtics,13.6,.484,,3.0,0.4,0.4,0.3,0.9,4.5
+220,P.J. Brown,Boston Celtics,11.6,.341,.000,3.8,0.6,0.3,0.4,0.6,2.2
+221,Brian Scalabrine,Boston Celtics,10.7,.309,.326,1.6,0.8,0.2,0.2,0.5,1.8
+222,Scot Pollard,Boston Celtics,7.9,.522,,1.7,0.1,0.1,0.3,0.2,1.8
+223,Gabe Pruitt,Boston Celtics,6.3,.359,.250,0.5,0.9,0.3,0.0,0.3,2.1
+224,Tim Duncan,San Antonio Spurs,34.1,.546,.111,10.6,3.4,0.8,2.4,2.8,20.0
+225,Tony Parker,San Antonio Spurs,32.5,.520,.395,3.2,5.5,1.1,0.1,2.5,18.6
+226,Bruce Bowen,San Antonio Spurs,30.0,.405,.384,2.7,1.4,0.8,0.3,0.8,6.2
+227,Manu Ginóbili,San Antonio Spurs,27.5,.464,.396,4.4,3.5,1.5,0.4,2.1,16.5
+228,James White,San Antonio Spurs,22.8,.439,.286,3.3,0.8,0.5,0.2,0.8,8.3
+229,Michael Finley,San Antonio Spurs,22.2,.412,.364,2.7,1.3,0.4,0.2,0.6,9.0
+230,Brent Barry,San Antonio Spurs,21.7,.475,.446,2.1,1.8,0.7,0.2,0.8,8.5
+231,Francisco Elson,San Antonio Spurs,19.0,.511,.000,4.8,0.8,0.4,0.8,1.2,5.0
+232,Fabricio Oberto,San Antonio Spurs,17.3,.562,,4.7,0.9,0.3,0.3,0.9,4.4
+233,Robert Horry,San Antonio Spurs,16.5,.359,.336,3.4,1.1,0.7,0.6,0.6,3.9
+234,Beno Udrih,San Antonio Spurs,13.0,.369,.287,1.1,1.7,0.4,0.0,0.8,4.7
+235,Jacque Vaughn,San Antonio Spurs,11.9,.425,.500,1.1,2.0,0.4,0.0,0.6,3.0
+236,Matt Bonner,San Antonio Spurs,11.7,.447,.383,2.8,0.4,0.3,0.2,0.4,4.9
+237,Melvin Ely,San Antonio Spurs,10.8,.300,,2.3,0.7,0.7,0.3,0.8,3.2
+238,Jackie Butler,San Antonio Spurs,9.4,.457,,2.0,0.5,0.2,0.0,0.9,3.7
+239,Eric Williams,San Antonio Spurs,5.5,.441,.471,0.9,0.4,0.1,0.0,0.3,2.6
+240,Dwyane Wade,Miami Heat,38.6,.495,.171,5.7,6.7,1.9,0.8,3.6,27.2
+241,Jason Williams,Miami Heat,31.8,.442,.372,2.4,4.9,0.9,0.1,1.7,12.3
+242,Udonis Haslem,Miami Heat,30.8,.508,.000,7.8,1.2,0.6,0.2,1.0,9.3
+243,Shaquille O'Neal,Miami Heat,30.6,.600,,9.2,1.9,0.4,1.8,2.8,20.0
+244,James Posey,Miami Heat,28.6,.403,.403,4.8,1.3,0.8,0.3,0.9,7.2
+245,Gary Payton,Miami Heat,28.5,.420,.287,2.9,3.2,0.9,0.1,1.3,7.7
+246,Antoine Walker,Miami Heat,26.8,.435,.358,5.1,2.0,0.6,0.4,1.8,12.2
+247,Derek Anderson,Miami Heat,20.2,.308,.313,2.6,2.1,0.3,0.1,0.7,5.8
+248,Alonzo Mourning,Miami Heat,20.0,.597,.000,5.5,0.2,0.2,2.7,1.2,7.8
+249,Shandon Anderson,Miami Heat,13.3,.429,.263,1.7,0.6,0.4,0.1,0.5,2.6
+250,Gerald Fitch,Miami Heat,13.3,.337,.269,1.7,1.8,0.4,0.3,0.8,4.7
+251,Jason Kapono,Miami Heat,13.0,.446,.396,1.4,0.7,0.1,0.1,0.4,4.1
+252,Michael Doleac,Miami Heat,12.0,.420,,2.7,0.3,0.3,0.2,0.5,3.2
+253,Wayne Simien,Miami Heat,9.6,.483,,2.0,0.2,0.3,0.0,0.6,3.4
+254,Dorell Wright,Miami Heat,6.6,.465,.500,1.6,0.4,0.2,0.1,0.7,2.9
+255,Earl Barron,Miami Heat,5.6,.313,,1.3,0.0,0.0,0.0,0.6,1.6
+256,Matt Walsh,Miami Heat,1.5,1.000,,0.0,0.0,0.0,0.0,0.5,1.0
+257,Tony Parker,San Antonio Spurs,34.2,.482,.276,3.7,6.1,1.2,0.1,2.7,16.6
+258,Tim Duncan,San Antonio Spurs,33.4,.496,.333,11.1,2.7,0.7,2.6,1.9,20.3
+259,Bruce Bowen,San Antonio Spurs,32.0,.420,.403,3.5,1.5,0.7,0.5,0.7,8.2
+260,Manu Ginóbili,San Antonio Spurs,29.6,.471,.376,4.4,3.9,1.6,0.4,2.3,16.0
+261,Rasho Nesterović,San Antonio Spurs,25.5,.460,,6.6,1.0,0.4,1.7,1.0,5.9
+262,Brent Barry,San Antonio Spurs,21.5,.423,.357,2.3,2.2,0.5,0.2,0.8,7.4
+263,Robert Horry,San Antonio Spurs,18.6,.419,.370,3.6,1.1,0.9,0.8,0.9,6.0
+264,Devin Brown,San Antonio Spurs,18.5,.423,.372,2.6,1.4,0.6,0.2,0.8,7.4
+265,Nazr Mohammed,San Antonio Spurs,18.0,.387,,6.4,0.3,0.2,1.4,1.2,6.2
+266,Glenn Robinson,San Antonio Spurs,17.4,.442,.333,2.7,0.9,0.4,0.3,0.8,10.0
+267,Malik Rose,San Antonio Spurs,17.2,.464,.000,4.5,0.8,0.6,0.2,1.1,6.3
+268,Beno Udrih,San Antonio Spurs,14.4,.444,.408,1.0,1.9,0.5,0.1,1.0,5.9
+269,Tony Massenburg,San Antonio Spurs,11.5,.407,,2.7,0.2,0.3,0.3,0.7,3.2
+270,Sean Marks,San Antonio Spurs,10.6,.338,.000,2.4,0.3,0.1,0.5,0.6,3.3
+271,Dion Glover,San Antonio Spurs,9.7,.364,.125,1.6,0.6,0.4,0.4,0.3,3.6
+272,Linton Johnson,San Antonio Spurs,7.5,.000,.000,1.5,0.0,0.5,0.0,0.5,0.0
+273,Mike Wilks,San Antonio Spurs,5.8,.416,.313,0.5,0.7,0.3,0.0,0.3,1.7
+274,Ben Wallace,Detroit Pistons,37.7,.421,.125,12.4,1.7,1.8,3.0,1.5,9.5
+275,Richard Hamilton,Detroit Pistons,35.5,.455,.265,3.6,4.0,1.3,0.2,2.7,17.6
+276,Chauncey Billups,Detroit Pistons,35.4,.394,.388,3.5,5.7,1.1,0.1,2.4,16.9
+277,Tayshaun Prince,Detroit Pistons,32.9,.467,.363,4.8,2.3,0.8,0.8,1.5,10.3
+278,Rasheed Wallace,Detroit Pistons,30.6,.431,.319,7.0,1.8,1.1,2.0,1.3,13.7
+279,Mehmet Okur,Detroit Pistons,22.3,.463,.375,5.9,1.0,0.5,0.9,1.4,9.6
+280,Lindsey Hunter,Detroit Pistons,20.0,.343,.280,2.0,2.6,1.2,0.2,1.0,3.5
+281,Corliss Williamson,Detroit Pistons,19.9,.505,,3.2,0.7,0.4,0.3,1.4,9.5
+282,Mike James,Detroit Pistons,19.7,.401,.364,2.2,3.7,1.0,0.0,1.6,6.3
+283,Chucky Atkins,Detroit Pistons,18.8,.374,.323,1.2,2.4,0.5,0.0,1.2,6.2
+284,Elden Campbell,Detroit Pistons,13.7,.439,,3.2,0.7,0.3,0.8,1.0,5.6
+285,Bob Sura,Detroit Pistons,13.3,.410,.250,1.9,1.7,0.7,0.2,0.7,3.8
+286,Željko Rebrača,Detroit Pistons,10.6,.407,,2.3,0.2,0.2,0.4,0.6,3.1
+287,Darvin Ham,Detroit Pistons,9.0,.493,.500,1.7,0.3,0.2,0.1,0.6,1.8
+288,Hubert Davis,Detroit Pistons,7.7,.000,.000,0.0,0.3,0.0,0.0,0.3,0.0
+289,Tremaine Fowlkes,Detroit Pistons,7.3,.313,.125,1.5,0.4,0.3,0.1,0.3,1.2
+290,Darko Miličić,Detroit Pistons,4.7,.262,.000,1.3,0.2,0.2,0.4,0.4,1.4
+291,Tim Duncan,San Antonio Spurs,39.3,.513,.273,12.9,3.9,0.7,2.9,3.1,23.3
+292,Tony Parker,San Antonio Spurs,33.8,.464,.337,2.6,5.3,0.9,0.0,2.4,15.5
+293,Bruce Bowen,San Antonio Spurs,31.3,.466,.441,2.9,1.4,0.8,0.5,0.9,7.1
+294,Stephen Jackson,San Antonio Spurs,28.2,.435,.320,3.6,2.3,1.6,0.4,2.2,11.8
+295,David Robinson,San Antonio Spurs,26.2,.469,,7.9,1.0,0.8,1.7,1.3,8.5
+296,Malik Rose,San Antonio Spurs,24.5,.459,.400,6.4,1.6,0.7,0.5,2.2,10.4
+297,Manu Ginóbili,San Antonio Spurs,20.7,.438,.345,2.3,2.0,1.4,0.2,1.4,7.6
+298,Steve Smith,San Antonio Spurs,19.5,.388,.331,1.9,1.3,0.5,0.2,0.8,6.8
+299,Speedy Claxton,San Antonio Spurs,15.7,.462,.000,1.9,2.5,0.7,0.2,1.2,5.8
+300,Steve Kerr,San Antonio Spurs,12.7,.430,.395,0.8,0.9,0.4,0.0,0.5,4.0
+301,Kevin Willis,San Antonio Spurs,11.8,.479,.000,3.2,0.3,0.3,0.3,0.8,4.2
+302,Danny Ferry,San Antonio Spurs,9.4,.355,.350,1.2,0.3,0.1,0.1,0.4,1.9
+303,Anthony Goldwire,San Antonio Spurs,5.1,.278,.250,0.3,0.3,0.3,0.0,0.2,1.2
+304,Mengke Bateer,San Antonio Spurs,3.8,.235,.333,0.8,0.3,0.0,0.0,0.5,0.8
+305,Devin Brown,San Antonio Spurs,3.1,.500,,1.0,0.3,0.0,0.0,0.7,1.7
+306,Kobe Bryant,Los Angeles Lakers,38.3,.469,.250,5.5,5.5,1.5,0.4,2.8,25.2
+307,Shaquille O'Neal,Los Angeles Lakers,36.1,.579,.000,10.7,3.0,0.6,2.0,2.6,27.2
+308,Derek Fisher,Los Angeles Lakers,28.2,.411,.413,2.1,2.6,0.9,0.1,0.9,11.2
+309,Rick Fox,Los Angeles Lakers,27.9,.421,.313,4.7,3.5,0.8,0.3,1.6,7.9
+310,Robert Horry,Los Angeles Lakers,26.4,.398,.374,5.9,2.9,1.0,1.1,1.1,6.8
+311,Samaki Walker,Los Angeles Lakers,24.0,.512,,7.0,0.9,0.4,1.3,0.8,6.7
+312,Devean George,Los Angeles Lakers,21.5,.411,.371,3.7,1.4,0.9,0.5,0.8,7.1
+313,Lindsey Hunter,Los Angeles Lakers,19.7,.382,.380,1.5,1.6,0.8,0.2,0.7,5.8
+314,Mitch Richmond,Los Angeles Lakers,11.1,.405,.290,1.5,0.9,0.3,0.1,0.6,4.1
+315,Mark Madsen,Los Angeles Lakers,11.0,.452,.000,2.7,0.7,0.3,0.2,0.4,2.8
+316,Brian Shaw,Los Angeles Lakers,10.9,.353,.330,1.9,1.5,0.4,0.1,0.6,2.9
+317,Stanislav Medvedenko,Los Angeles Lakers,10.3,.477,.000,2.2,0.6,0.4,0.2,0.6,4.7
+318,Jelani McCoy,Los Angeles Lakers,5.0,.571,,1.2,0.3,0.0,0.2,0.4,1.2
+319,Joe Crispin,Los Angeles Lakers,4.5,.250,.000,0.2,0.3,0.2,0.0,0.2,1.7
+320,Mike Penberthy,Los Angeles Lakers,4.0,.500,,0.7,0.7,0.7,0.0,0.0,1.7
+321,Kobe Bryant,Los Angeles Lakers,40.9,.464,.305,5.9,5.0,1.7,0.6,3.2,28.5
+322,Shaquille O'Neal,Los Angeles Lakers,39.5,.572,.000,12.7,3.7,0.6,2.8,2.9,28.7
+323,Derek Fisher,Los Angeles Lakers,35.5,.412,.397,3.0,4.4,2.0,0.1,1.5,11.5
+324,Horace Grant,Los Angeles Lakers,31.0,.462,.000,7.1,1.6,0.7,0.8,0.6,8.5
+325,Rick Fox,Los Angeles Lakers,27.9,.444,.393,4.0,3.2,0.9,0.4,1.7,9.6
+326,Ron Harper,Los Angeles Lakers,24.2,.469,.264,3.5,2.4,0.8,0.5,1.3,6.5
+327,Brian Shaw,Los Angeles Lakers,22.9,.399,.311,3.8,3.2,0.6,0.3,1.2,5.3
+328,Robert Horry,Los Angeles Lakers,20.1,.387,.346,3.7,1.6,0.7,0.7,1.0,5.2
+329,Isaiah Rider,Los Angeles Lakers,18.0,.426,.370,2.3,1.7,0.4,0.1,1.5,7.6
+330,Mike Penberthy,Los Angeles Lakers,16.1,.414,.396,1.2,1.3,0.4,0.0,0.6,5.0
+331,Tyronn Lue,Los Angeles Lakers,12.3,.427,.324,0.8,1.2,0.5,0.0,0.7,3.4
+332,Devean George,Los Angeles Lakers,10.1,.309,.221,1.9,0.3,0.3,0.3,0.6,3.1
+333,Mark Madsen,Los Angeles Lakers,9.2,.487,1.000,2.2,0.3,0.1,0.1,0.4,2.0
+334,Greg Foster,Los Angeles Lakers,7.3,.421,.333,1.8,0.5,0.1,0.2,0.4,2.0
+335,Stanislav Medvedenko,Los Angeles Lakers,5.6,.480,1.000,1.3,0.3,0.1,0.1,0.4,4.6
+336,Shaquille O'Neal,Los Angeles Lakers,40.0,.574,.000,13.6,3.8,0.5,3.0,2.8,29.7
+337,Kobe Bryant,Los Angeles Lakers,38.2,.468,.319,6.3,4.9,1.6,0.9,2.8,22.5
+338,Glen Rice,Los Angeles Lakers,31.6,.430,.367,4.1,2.2,0.6,0.2,1.4,15.9
+339,Ron Harper,Los Angeles Lakers,25.5,.399,.311,4.2,3.4,1.1,0.5,1.7,7.0
+340,A.C. Green,Los Angeles Lakers,23.5,.447,.250,5.9,1.0,0.6,0.2,0.6,5.0
+341,Derek Fisher,Los Angeles Lakers,23.1,.346,.313,1.8,2.8,1.0,0.0,1.0,6.3
+342,Robert Horry,Los Angeles Lakers,22.2,.438,.309,4.8,1.6,1.1,1.1,1.0,5.7
+343,Tyronn Lue,Los Angeles Lakers,18.3,.487,.500,1.5,2.1,0.4,0.0,1.1,6.0
+344,Rick Fox,Los Angeles Lakers,18.0,.414,.326,2.4,1.7,0.6,0.3,1.1,6.5
+345,Brian Shaw,Los Angeles Lakers,16.9,.382,.310,2.9,2.7,0.5,0.2,1.0,4.1
+346,John Celestand,Los Angeles Lakers,11.6,.333,.222,0.7,1.3,0.4,0.0,1.0,2.3
+347,Devean George,Los Angeles Lakers,7.0,.389,.340,1.5,0.2,0.2,0.1,0.4,3.2
+348,John Salley,Los Angeles Lakers,6.7,.362,,1.4,0.6,0.2,0.3,0.4,1.6
+349,Travis Knight,Los Angeles Lakers,6.5,.390,,2.0,0.4,0.1,0.4,0.4,1.7
+350,Sam Jacobson,Los Angeles Lakers,6.0,.556,,0.3,0.7,0.3,0.0,0.7,3.3
+351,Tim Duncan,San Antonio Spurs,39.3,.495,.143,11.4,2.4,0.9,2.5,2.9,21.7
+352,Avery Johnson,San Antonio Spurs,33.4,.473,.083,2.4,7.4,1.0,0.2,2.2,9.7
+353,David Robinson,San Antonio Spurs,31.7,.509,.000,10.0,2.1,1.4,2.4,2.2,15.8
+354,Sean Elliott,San Antonio Spurs,30.2,.410,.328,4.3,2.3,0.5,0.3,1.4,11.2
+355,Mario Elie,San Antonio Spurs,27.5,.471,.374,2.9,1.9,1.0,0.3,1.3,9.7
+356,Jaren Jackson,San Antonio Spurs,18.3,.380,.361,2.1,1.0,0.9,0.2,0.8,6.4
+357,Steve Kerr,San Antonio Spurs,16.7,.391,.313,1.0,1.1,0.5,0.1,0.5,4.4
+358,Jerome Kersey,San Antonio Spurs,15.5,.340,.214,2.9,0.9,0.8,0.3,0.7,3.2
+359,Antonio Daniels,San Antonio Spurs,13.1,.454,.294,1.1,2.3,0.6,0.1,0.9,4.7
+360,Malik Rose,San Antonio Spurs,12.9,.463,.000,3.9,0.6,0.9,0.5,1.2,6.0
+361,Will Perdue,San Antonio Spurs,12.0,.633,,3.7,0.5,0.2,0.3,0.6,2.4
+362,Gerard King,San Antonio Spurs,3.3,.429,,0.7,0.2,0.1,0.1,0.2,1.2
+363,Andrew Gaze,San Antonio Spurs,3.1,.320,.313,0.3,0.3,0.1,0.1,0.2,1.1
+364,Brandon Williams,San Antonio Spurs,1.3,,,0.3,0.0,0.0,0.0,0.0,0.7
+365,Michael Jordan,Chicago Bulls,38.8,.465,.238,5.8,3.5,1.7,0.5,2.3,28.7
+366,Scottie Pippen,Chicago Bulls,37.5,.447,.318,5.2,5.8,1.8,1.0,2.5,19.1
+367,Dennis Rodman,Chicago Bulls,35.7,.431,.174,15.0,2.9,0.6,0.2,1.8,4.7
+368,Toni Kukoč,Chicago Bulls,30.2,.455,.362,4.4,4.2,1.0,0.5,2.1,13.3
+369,Luc Longley,Chicago Bulls,29.4,.455,,5.9,2.8,0.6,1.1,2.2,11.4
+370,Ron Harper,Chicago Bulls,27.9,.441,.190,3.5,2.9,1.3,0.6,1.1,9.3
+371,Steve Kerr,Chicago Bulls,22.4,.454,.438,1.5,1.9,0.5,0.1,0.5,7.5
+372,Randy Brown,Chicago Bulls,16.2,.384,.000,1.3,2.1,1.0,0.2,0.9,4.1
+373,Jason Caffey,Chicago Bulls,13.9,.503,.000,3.4,0.7,0.3,0.3,0.9,5.3
+374,Scott Burrell,Chicago Bulls,13.7,.424,.354,2.5,0.8,0.8,0.5,0.6,5.2
+375,Dickey Simpkins,Chicago Bulls,11.3,.634,.000,1.5,0.8,0.2,0.1,0.6,3.7
+376,Rusty LaRue,Chicago Bulls,10.0,.408,.250,0.6,0.4,0.2,0.1,0.4,3.5
+377,Bill Wennington,Chicago Bulls,9.7,.436,,1.7,0.4,0.1,0.1,0.3,3.5
+378,Joe Kleine,Chicago Bulls,8.6,.368,,1.7,0.7,0.1,0.1,0.6,2.0
+379,Jud Buechler,Chicago Bulls,8.2,.483,.385,1.0,0.7,0.3,0.2,0.3,2.7
+380,Keith Booth,Chicago Bulls,2.8,.333,.000,0.7,0.2,0.0,0.0,0.5,1.7
+381,David Vaughn,Chicago Bulls,2.0,1.000,,0.3,0.0,0.0,0.0,0.0,1.3
+382,Michael Jordan,Chicago Bulls,37.9,.486,.374,5.9,4.3,1.7,0.5,2.0,29.6
+383,Scottie Pippen,Chicago Bulls,37.7,.474,.368,6.5,5.7,1.9,0.5,2.6,20.2
+384,Dennis Rodman,Chicago Bulls,35.4,.448,.263,16.1,3.1,0.6,0.3,2.0,5.7
+385,Toni Kukoč,Chicago Bulls,28.2,.471,.331,4.6,4.5,1.1,0.5,1.6,13.2
+386,Luc Longley,Chicago Bulls,24.9,.456,.000,5.6,2.4,0.4,1.1,1.9,9.1
+387,Ron Harper,Chicago Bulls,22.9,.436,.362,2.5,2.5,1.1,0.5,0.7,6.3
+388,Steve Kerr,Chicago Bulls,22.7,.533,.464,1.6,2.1,0.8,0.0,0.5,8.1
+389,Jason Caffey,Chicago Bulls,18.7,.532,.000,4.0,1.2,0.3,0.1,1.3,7.3
+390,Bison Dele,Chicago Bulls,15.3,.413,,3.7,1.3,0.3,0.6,1.2,7.0
+391,Randy Brown,Chicago Bulls,14.7,.420,.182,1.5,1.8,1.1,0.2,0.8,4.7
+392,Bill Wennington,Chicago Bulls,12.8,.498,.000,2.1,0.7,0.2,0.2,0.5,4.6
+393,Robert Parish,Chicago Bulls,9.4,.490,,2.1,0.5,0.1,0.4,0.7,3.7
+394,Jud Buechler,Chicago Bulls,9.3,.367,.333,1.7,0.8,0.3,0.3,0.4,1.8
+395,Dickey Simpkins,Chicago Bulls,8.2,.333,.250,1.9,0.6,0.1,0.1,0.7,1.9
+396,Matt Steigenga,Chicago Bulls,6.0,.250,.000,1.5,1.0,0.5,0.5,1.0,1.5
+397,Michael Jordan,Chicago Bulls,37.7,.495,.427,6.6,4.3,2.2,0.5,2.4,30.4
+398,Scottie Pippen,Chicago Bulls,36.7,.463,.374,6.4,5.9,1.7,0.7,2.7,19.4
+399,Dennis Rodman,Chicago Bulls,32.6,.480,.111,14.9,2.5,0.6,0.4,2.2,5.5
+400,Luc Longley,Chicago Bulls,26.5,.482,,5.1,1.9,0.4,1.4,1.8,9.1
+401,Toni Kukoč,Chicago Bulls,26.0,.490,.403,4.0,3.5,0.8,0.3,1.4,13.1
+402,Ron Harper,Chicago Bulls,23.6,.467,.269,2.7,2.6,1.3,0.4,0.9,7.4
+403,Steve Kerr,Chicago Bulls,23.4,.506,.515,1.3,2.3,0.8,0.0,0.5,8.4
+404,Bill Wennington,Chicago Bulls,15.0,.493,1.000,2.5,0.6,0.3,0.2,0.5,5.3
+405,Dickey Simpkins,Chicago Bulls,11.4,.481,1.000,2.6,0.6,0.2,0.1,0.9,3.6
+406,John Salley,Chicago Bulls,11.2,.343,,2.5,0.9,0.5,0.9,0.9,2.1
+407,Jud Buechler,Chicago Bulls,10.0,.463,.444,1.5,0.8,0.5,0.1,0.5,3.8
+408,Randy Brown,Chicago Bulls,9.9,.406,.091,1.0,1.1,0.8,0.2,0.5,2.7
+409,James Edwards,Chicago Bulls,9.8,.373,,1.4,0.4,0.0,0.3,0.8,3.5
+410,Jason Caffey,Chicago Bulls,9.6,.438,.000,1.9,0.4,0.2,0.1,0.8,3.2
+411,Jack Haley,Chicago Bulls,7.0,.333,,2.0,0.0,0.0,0.0,1.0,5.0
+412,Hakeem Olajuwon,Houston Rockets,39.6,.517,.188,10.8,3.5,1.8,3.4,3.3,27.8
+413,Clyde Drexler,Houston Rockets,37.1,.506,.357,7.0,4.4,1.8,0.7,2.5,21.4
+414,Otis Thorpe,Houston Rockets,33.0,.563,.000,8.9,1.6,0.6,0.4,2.1,13.3
+415,Robert Horry,Houston Rockets,32.4,.447,.379,5.1,3.4,1.5,1.2,1.9,10.2
+416,Vernon Maxwell,Houston Rockets,31.8,.394,.324,2.6,4.3,1.2,0.2,2.1,13.3
+417,Kenny Smith,Houston Rockets,25.1,.484,.429,1.9,4.0,0.9,0.1,1.5,10.4
+418,Mario Elie,Houston Rockets,23.4,.499,.398,2.4,2.3,0.8,0.1,1.3,8.8
+419,Sam Cassell,Houston Rockets,23.0,.427,.330,2.6,4.9,1.1,0.2,2.0,9.5
+420,Carl Herrera,Houston Rockets,21.8,.523,.000,4.6,0.7,0.7,0.6,1.2,6.8
+421,Chucky Brown,Houston Rockets,19.9,.603,.333,4.6,0.7,0.3,0.3,0.7,6.1
+422,Pete Chilcutt,Houston Rockets,19.8,.445,.407,4.7,1.0,0.4,0.6,0.9,5.3
+423,Charles Jones,Houston Rockets,12.0,.333,,2.3,0.0,0.0,0.3,0.0,1.0
+424,Tim Breaux,Houston Rockets,8.1,.372,.240,0.8,0.4,0.3,0.1,0.4,3.0
+425,Tracy Murray,Houston Rockets,8.1,.400,.422,0.9,0.2,0.3,0.1,0.6,3.5
+426,Scott Brooks,Houston Rockets,6.6,.538,.471,0.5,0.8,0.3,0.0,0.5,3.4
+427,Žan Tabak,Houston Rockets,4.9,.453,.000,1.5,0.1,0.1,0.2,0.5,2.0
+428,Adrian Caldwell,Houston Rockets,4.3,.250,,1.4,0.0,0.1,0.0,0.1,0.7
+429,Hakeem Olajuwon,Houston Rockets,41.0,.528,.421,11.9,3.6,1.6,3.7,3.4,27.3
+430,Otis Thorpe,Houston Rockets,35.5,.561,.000,10.6,2.3,0.8,0.3,2.3,14.0
+431,Vernon Maxwell,Houston Rockets,34.3,.389,.298,3.1,5.1,1.7,0.3,2.5,13.6
+432,Robert Horry,Houston Rockets,29.3,.459,.324,5.4,2.9,1.5,0.9,1.7,9.9
+433,Kenny Smith,Houston Rockets,28.3,.480,.405,1.8,4.2,0.8,0.1,1.6,11.6
+434,Chris Jent,Houston Rockets,26.0,.500,.364,5.0,2.3,0.0,0.0,1.7,10.3
+435,Mario Elie,Houston Rockets,24.0,.446,.335,2.7,3.1,0.7,0.1,1.6,9.3
+436,Carl Herrera,Houston Rockets,17.2,.458,,3.8,0.5,0.4,0.3,0.9,4.7
+437,Sam Cassell,Houston Rockets,17.0,.418,.295,2.0,2.9,0.9,0.1,1.4,6.7
+438,Scott Brooks,Houston Rockets,16.8,.491,.377,1.4,2.0,0.7,0.0,0.8,5.2
+439,Earl Cureton,Houston Rockets,15.0,.250,,6.0,0.0,0.0,0.0,0.5,2.0
+440,Matt Bullard,Houston Rockets,11.2,.345,.325,1.3,1.0,0.2,0.1,0.4,3.5
+441,Larry Robinson,Houston Rockets,9.2,.500,.250,1.7,1.0,1.2,0.0,1.7,4.2
+442,Eric Riley,Houston Rockets,4.7,.486,.000,1.3,0.2,0.1,0.2,0.3,1.9
+443,Richard Petruška,Houston Rockets,4.2,.435,.467,1.4,0.0,0.1,0.1,0.7,2.4
+444,Michael Jordan,Chicago Bulls,39.3,.495,.352,6.7,5.5,2.8,0.8,2.7,32.6
+445,Scottie Pippen,Chicago Bulls,38.6,.473,.237,7.7,6.3,2.1,0.9,3.0,18.6
+446,Horace Grant,Chicago Bulls,35.6,.508,.200,9.5,2.6,1.2,1.2,1.4,13.2
+447,B.J. Armstrong,Chicago Bulls,30.4,.499,.453,1.8,4.0,0.8,0.1,1.0,12.3
+448,Bill Cartwright,Chicago Bulls,19.9,.411,,3.7,1.3,0.3,0.2,1.0,5.6
+449,Scott Williams,Chicago Bulls,19.3,.466,.000,6.4,1.0,0.8,0.9,1.0,5.9
+450,John Paxson,Chicago Bulls,17.5,.451,.463,0.8,2.3,0.6,0.0,0.5,4.2
+451,Rodney McCray,Chicago Bulls,15.9,.451,.400,2.5,1.3,0.2,0.2,0.8,3.5
+452,Stacey King,Chicago Bulls,13.9,.471,.333,2.7,0.9,0.3,0.3,0.9,5.4
+453,Will Perdue,Chicago Bulls,13.9,.557,.000,4.0,1.0,0.3,0.7,1.0,4.7
+454,Trent Tucker,Chicago Bulls,13.2,.485,.397,1.0,1.2,0.3,0.1,0.3,5.2
+455,Darrell Walker,Chicago Bulls,13.1,.403,,1.4,1.6,0.8,0.1,0.4,2.6
+456,Ed Nealy,Chicago Bulls,7.2,.435,.200,1.5,0.2,0.3,0.1,0.2,2.1
+457,Corey Williams,Chicago Bulls,6.9,.365,.333,0.9,0.7,0.1,0.1,0.3,2.3
+458,Joe Courtney,Chicago Bulls,6.8,.444,,0.4,0.2,0.4,0.2,0.6,2.2
+459,Ricky Blanton,Chicago Bulls,6.5,.429,,1.5,0.5,1.0,0.0,0.5,3.0
+460,Jo Jo English,Chicago Bulls,5.2,.300,.000,1.0,0.2,0.5,0.3,0.7,1.0
+461,Michael Jordan,Chicago Bulls,38.8,.519,.270,6.4,6.1,2.3,0.9,2.5,30.1
+462,Scottie Pippen,Chicago Bulls,38.6,.506,.200,7.7,7.0,1.9,1.1,3.1,21.0
+463,Horace Grant,Chicago Bulls,35.3,.578,.000,10.0,2.7,1.2,1.6,1.2,14.2
+464,John Paxson,Chicago Bulls,24.6,.528,.273,1.2,3.1,0.6,0.1,0.6,7.0
+465,Bill Cartwright,Chicago Bulls,23.0,.467,,5.1,1.4,0.3,0.2,1.2,8.0
+466,B.J. Armstrong,Chicago Bulls,22.9,.481,.402,1.8,3.2,0.6,0.1,1.1,9.9
+467,Stacey King,Chicago Bulls,16.1,.506,.400,2.6,1.0,0.3,0.3,1.0,7.0
+468,Will Perdue,Chicago Bulls,13.1,.547,.500,4.1,1.0,0.2,0.6,0.9,4.5
+469,Cliff Levingston,Chicago Bulls,12.9,.498,.167,2.9,0.8,0.3,0.6,0.5,3.9
+470,Bob Hansen,Chicago Bulls,11.7,.444,.280,1.1,1.0,0.4,0.0,0.4,2.5
+471,Scott Williams,Chicago Bulls,11.0,.483,.000,3.9,0.8,0.2,0.6,0.6,3.4
+472,Craig Hodges,Chicago Bulls,9.9,.384,.375,0.4,1.0,0.3,0.0,0.4,4.3
+473,Dennis Hopson,Chicago Bulls,5.0,.500,,0.0,0.0,0.5,0.0,0.0,1.0
+474,Mark Randall,Chicago Bulls,4.5,.455,.000,0.6,0.5,0.0,0.0,0.4,1.7
+475,Rory Sparrow,Chicago Bulls,4.5,.125,.500,0.3,1.0,0.0,0.0,0.5,0.8
+476,Chuck Nevitt,Chicago Bulls,2.3,.333,,0.3,0.3,0.0,0.0,0.8,0.5
+477,Michael Jordan,Chicago Bulls,37.0,.539,.312,6.0,5.5,2.7,1.0,2.5,31.5
+478,Scottie Pippen,Chicago Bulls,36.8,.520,.309,7.3,6.2,2.4,1.1,2.8,17.8
+479,Horace Grant,Chicago Bulls,33.9,.547,.167,8.4,2.3,1.2,0.9,1.2,12.8
+480,Bill Cartwright,Chicago Bulls,28.8,.490,,6.2,1.6,0.4,0.2,1.4,9.6
+481,John Paxson,Chicago Bulls,24.0,.548,.438,1.1,3.6,0.8,0.0,0.8,8.7
+482,B.J. Armstrong,Chicago Bulls,21.1,.481,.500,1.8,3.7,0.9,0.0,1.3,8.8
+483,Stacey King,Chicago Bulls,15.8,.467,.000,2.7,0.9,0.3,0.6,1.2,5.5
+484,Will Perdue,Chicago Bulls,13.1,.494,.000,4.5,0.6,0.3,0.8,1.0,4.1
+485,Cliff Levingston,Chicago Bulls,13.0,.450,.250,2.9,0.7,0.4,0.6,0.6,4.0
+486,Dennis Hopson,Chicago Bulls,11.9,.426,.200,1.8,1.1,0.4,0.2,1.0,4.3
+487,Craig Hodges,Chicago Bulls,11.5,.424,.383,0.6,1.3,0.5,0.0,0.5,5.0
+488,Scott Williams,Chicago Bulls,6.6,.510,.500,1.9,0.3,0.2,0.3,0.5,2.5
+489,Isiah Thomas,Detroit Pistons,37.0,.438,.309,3.8,9.4,1.7,0.2,4.0,18.4
+490,Joe Dumars,Detroit Pistons,34.4,.480,.400,2.8,4.9,0.8,0.0,1.9,17.8
+491,Bill Laimbeer,Detroit Pistons,33.0,.484,.361,9.6,2.1,0.7,1.0,1.2,12.1
+492,Dennis Rodman,Detroit Pistons,29.0,.581,.111,9.7,0.9,0.6,0.7,1.1,8.8
+493,James Edwards,Detroit Pistons,27.8,.498,.000,4.2,0.8,0.3,0.5,1.6,14.5
+494,Mark Aguirre,Detroit Pistons,25.7,.488,.333,3.9,1.9,0.4,0.2,1.6,14.1
+495,Vinnie Johnson,Detroit Pistons,24.0,.431,.147,3.1,3.1,0.9,0.2,1.5,9.8
+496,John Salley,Detroit Pistons,23.3,.512,.250,5.4,0.8,0.6,1.9,1.2,7.2
+497,Gerald Henderson,Detroit Pistons,7.3,.506,.452,0.7,1.3,0.2,0.0,0.3,2.3
+498,William Bedford,Detroit Pistons,5.9,.432,.167,1.4,0.1,0.1,0.4,0.5,2.8
+499,Dave Greenwood,Detroit Pistons,5.5,.423,,2.1,0.3,0.1,0.2,0.4,1.6
+500,Stan Kimbrough,Detroit Pistons,5.0,.438,,0.7,0.5,0.4,0.0,0.4,1.6
+501,Scott Hastings,Detroit Pistons,4.2,.303,.250,0.8,0.2,0.1,0.1,0.2,1.1
+502,Ralph Lewis,Detroit Pistons,1.5,.000,,0.0,0.0,0.0,0.0,0.3,0.0
+503,Isiah Thomas,Detroit Pistons,36.6,.464,.273,3.4,8.3,1.7,0.3,3.7,18.2
+504,Joe Dumars,Detroit Pistons,34.9,.505,.483,2.5,5.7,0.9,0.1,2.6,17.2
+505,Bill Laimbeer,Detroit Pistons,32.6,.499,.349,9.6,2.2,0.6,1.2,1.6,13.7
+506,Adrian Dantley,Detroit Pistons,31.9,.521,,3.9,2.2,0.5,0.1,1.9,18.4
+507,Mark Aguirre,Detroit Pistons,29.7,.483,.293,4.2,2.5,0.4,0.2,1.9,15.5
+508,Dennis Rodman,Detroit Pistons,26.9,.595,.231,9.4,1.2,0.7,0.9,1.5,9.0
+509,Vinnie Johnson,Detroit Pistons,25.3,.464,.295,3.1,3.0,0.9,0.2,1.3,13.8
+510,Rick Mahorn,Detroit Pistons,24.9,.517,.000,6.9,0.8,0.6,0.9,1.3,7.3
+511,John Salley,Detroit Pistons,21.8,.498,.000,5.0,1.1,0.6,1.1,1.5,7.0
+512,James Edwards,Detroit Pistons,16.5,.500,.000,3.0,0.6,0.1,0.4,0.9,7.3
+513,Micheal Williams,Detroit Pistons,7.3,.364,.222,0.6,1.4,0.3,0.1,0.9,2.6
+514,John Long,Detroit Pistons,6.3,.475,,0.5,0.6,0.0,0.1,0.4,2.0
+515,Darryl Dawkins,Detroit Pistons,3.4,.474,,0.5,0.1,0.0,0.1,0.3,1.9
+516,Pace Mannion,Detroit Pistons,2.8,1.000,,0.6,0.0,0.2,0.0,0.0,0.8
+517,Fennis Dembo,Detroit Pistons,2.4,.333,.000,0.7,0.2,0.0,0.0,0.2,1.2
+518,Steve Harris,Detroit Pistons,2.3,.250,,0.7,0.0,0.3,0.0,0.0,1.3
+519,Jim Rowinski,Detroit Pistons,1.3,.000,,0.3,0.0,0.0,0.0,0.0,0.7
+520,Byron Scott,Los Angeles Lakers,37.6,.527,.346,4.1,4.1,1.9,0.3,2.0,21.7
+521,Magic Johnson,Los Angeles Lakers,36.6,.492,.196,6.2,11.9,1.6,0.2,3.7,19.6
+522,James Worthy,Los Angeles Lakers,35.4,.531,.125,5.0,3.9,1.0,0.7,2.1,19.7
+523,A.C. Green,Los Angeles Lakers,32.1,.503,.000,8.7,1.1,1.1,0.5,1.5,11.4
+524,Michael Cooper,Los Angeles Lakers,29.4,.392,.320,3.7,4.7,1.1,0.4,1.7,8.7
+525,Kareem Abdul-Jabbar,Los Angeles Lakers,28.9,.532,.000,6.0,1.7,0.6,1.2,2.0,14.6
+526,Mychal Thompson,Los Angeles Lakers,25.1,.512,.000,6.1,0.8,0.5,1.0,1.4,11.6
+527,Tony Campbell,Los Angeles Lakers,18.6,.564,.333,2.1,1.2,0.8,0.2,2.0,11.0
+528,Wes Matthews,Los Angeles Lakers,13.8,.460,.233,1.3,2.7,0.5,0.1,1.4,5.7
+529,Kurt Rambis,Los Angeles Lakers,12.1,.548,,3.8,0.8,0.6,0.2,0.8,4.0
+530,Milt Wagner,Los Angeles Lakers,9.5,.422,.200,0.7,1.5,0.2,0.1,0.6,3.8
+531,Mike Smrek,Los Angeles Lakers,8.8,.427,,1.8,0.2,0.1,0.9,0.6,2.8
+532,Ray Tolbert,Los Angeles Lakers,5.9,.571,,1.4,0.4,0.2,0.2,0.8,3.0
+533,Billy Thompson,Los Angeles Lakers,4.2,.231,,1.0,0.1,0.1,0.0,0.7,1.6
+534,Jeff Lamp,Los Angeles Lakers,2.3,,,0.0,0.0,0.0,0.0,0.0,0.7
+535,Magic Johnson,Los Angeles Lakers,36.3,.522,.205,6.3,12.2,1.7,0.5,3.8,23.9
+536,James Worthy,Los Angeles Lakers,34.4,.539,.000,5.7,2.8,1.3,1.0,2.0,19.4
+537,Byron Scott,Los Angeles Lakers,33.3,.489,.436,3.5,3.4,1.5,0.2,1.8,17.0
+538,Kareem Abdul-Jabbar,Los Angeles Lakers,31.3,.564,.333,6.7,2.6,0.6,1.2,2.4,17.5
+539,A.C. Green,Los Angeles Lakers,28.4,.538,.000,7.8,1.1,0.9,1.0,1.3,10.8
+540,Michael Cooper,Los Angeles Lakers,27.5,.438,.385,3.1,4.5,1.0,0.5,1.2,10.5
+541,Mychal Thompson,Los Angeles Lakers,20.6,.480,.000,4.1,0.8,0.4,0.9,1.7,10.1
+542,Kurt Rambis,Los Angeles Lakers,19.4,.521,,5.8,0.8,0.9,0.5,1.3,5.7
+543,Billy Thompson,Los Angeles Lakers,12.9,.544,.000,2.9,1.0,0.3,0.5,1.0,5.6
+544,Frank Brickowski,Los Angeles Lakers,10.9,.564,,2.6,0.3,0.4,0.1,0.7,3.9
+545,Wes Matthews,Los Angeles Lakers,10.6,.476,.333,0.9,2.0,0.5,0.1,1.0,4.2
+546,Adrian Branch,Los Angeles Lakers,6.8,.500,.000,1.7,0.5,0.5,0.1,0.8,4.3
+547,Mike Smrek,Los Angeles Lakers,6.7,.500,,1.1,0.1,0.1,0.4,0.5,2.2
+548,Larry Bird,Boston Celtics,38.0,.496,.423,9.8,6.8,2.0,0.6,3.2,25.8
+549,Kevin McHale,Boston Celtics,35.3,.574,,8.1,2.7,0.4,2.0,2.2,21.3
+550,Dennis Johnson,Boston Celtics,35.0,.455,.143,3.4,5.8,1.4,0.4,2.2,15.6
+551,Robert Parish,Boston Celtics,31.7,.549,,9.5,1.8,0.8,1.4,2.3,16.1
+552,Danny Ainge,Boston Celtics,30.1,.504,.356,2.9,5.1,1.2,0.1,1.6,10.7
+553,Jerry Sichting,Boston Celtics,19.5,.570,.375,1.3,2.3,0.6,0.0,0.9,6.5
+554,Bill Walton,Boston Celtics,19.3,.562,,6.8,2.1,0.5,1.3,1.9,7.6
+555,Scott Wedman,Boston Celtics,17.7,.473,.354,2.4,1.1,0.5,0.3,0.7,8.0
+556,Rick Carlisle,Boston Celtics,9.9,.487,.000,1.0,1.4,0.2,0.1,0.6,2.6
+557,Sly Williams,Boston Celtics,9.0,.238,.000,2.5,0.3,0.2,0.2,1.2,2.8
+558,David Thirdkill,Boston Celtics,7.9,.491,.000,1.4,0.3,0.2,0.1,0.4,3.3
+559,Sam Vincent,Boston Celtics,7.6,.364,.250,0.8,1.2,0.3,0.1,0.9,3.2
+560,Greg Kite,Boston Celtics,7.3,.374,.000,2.0,0.3,0.0,0.4,0.5,1.3
+561,Magic Johnson,Los Angeles Lakers,36.1,.561,.189,6.2,12.6,1.5,0.3,4.0,18.3
+562,James Worthy,Los Angeles Lakers,33.7,.572,.000,6.4,2.5,1.1,0.8,2.5,17.6
+563,Kareem Abdul-Jabbar,Los Angeles Lakers,33.3,.599,.000,7.9,3.2,0.8,2.1,2.5,22.0
+564,Byron Scott,Los Angeles Lakers,28.5,.539,.433,2.6,3.0,1.2,0.2,1.7,16.0
+565,Michael Cooper,Los Angeles Lakers,26.7,.465,.285,3.1,5.2,1.1,0.6,1.9,8.6
+566,Kurt Rambis,Los Angeles Lakers,19.7,.554,,6.4,0.8,1.0,0.6,1.2,5.2
+567,Bob McAdoo,Los Angeles Lakers,19.0,.520,.000,4.5,1.0,0.3,0.8,1.4,10.5
+568,Jamaal Wilkes,Los Angeles Lakers,18.1,.488,.000,2.2,1.0,0.5,0.1,1.2,8.3
+569,Larry Spriggs,Los Angeles Lakers,17.2,.548,.000,3.0,1.8,0.6,0.2,1.5,6.7
+570,Mike McGee,Los Angeles Lakers,15.4,.538,.361,2.2,0.9,0.5,0.1,1.1,10.2
+571,Mitch Kupchak,Los Angeles Lakers,12.3,.504,,3.2,0.4,0.3,0.3,0.8,5.3
+572,Ronnie Lester,Los Angeles Lakers,8.7,.415,.000,0.8,2.5,0.5,0.1,1.0,2.8
+573,Chuck Nevitt,Los Angeles Lakers,5.4,.294,,1.8,0.3,0.0,1.4,0.9,1.1
+574,Earl Jones,Los Angeles Lakers,3.5,.000,,0.0,0.0,0.0,0.0,0.5,0.0
+575,Larry Bird,Boston Celtics,38.3,.492,.247,10.1,6.6,1.8,0.9,3.0,24.2
+576,Robert Parish,Boston Celtics,35.8,.546,,10.7,1.7,0.7,1.5,2.3,19.0
+577,Dennis Johnson,Boston Celtics,33.3,.437,.125,3.5,4.2,1.2,0.7,2.2,13.2
+578,Kevin McHale,Boston Celtics,31.4,.556,.333,7.4,1.3,0.3,1.5,1.8,18.4
+579,Cedric Maxwell,Boston Celtics,31.3,.532,.167,5.8,2.6,0.8,0.3,2.5,11.9
+580,Gerald Henderson,Boston Celtics,26.8,.524,.351,1.9,3.8,1.5,0.2,2.1,11.6
+581,Danny Ainge,Boston Celtics,16.3,.460,.273,1.6,2.3,0.6,0.1,1.0,5.4
+582,Quinn Buckner,Boston Celtics,15.8,.427,.000,1.7,2.7,1.1,0.0,1.3,4.1
+583,Scott Wedman,Boston Celtics,13.5,.444,.154,2.0,1.0,0.4,0.1,0.6,4.8
+584,M.L. Carr,Boston Celtics,9.8,.409,.200,1.3,0.8,0.3,0.1,0.8,3.1
+585,Greg Kite,Boston Celtics,5.6,.455,,1.8,0.2,0.0,0.1,0.6,1.9
+586,Carlos Clark,Boston Celtics,4.1,.365,.000,0.5,0.5,0.3,0.0,0.4,1.7
+587,Moses Malone,Philadelphia 76ers,37.5,.501,.000,15.3,1.3,1.1,2.0,3.4,24.5
+588,Julius Erving,Philadelphia 76ers,33.6,.517,.286,6.8,3.7,1.6,1.8,2.7,21.4
+589,Maurice Cheeks,Philadelphia 76ers,31.2,.542,.167,2.6,6.9,2.3,0.4,2.3,12.5
+590,Andrew Toney,Philadelphia 76ers,30.5,.501,.289,2.8,4.5,1.0,0.2,3.3,19.7
+591,Bobby Jones,Philadelphia 76ers,23.6,.543,.000,4.6,1.9,1.1,1.2,1.5,9.0
+592,Clint Richardson,Philadelphia 76ers,22.8,.463,.000,3.2,2.2,0.9,0.2,1.3,7.6
+593,Clemon Johnson,Philadelphia 76ers,21.8,.500,,6.4,0.8,0.5,0.9,1.1,6.8
+594,Marc Iavaroni,Philadelphia 76ers,20.2,.462,.000,4.1,1.0,0.4,0.6,1.7,5.1
+595,Reggie Johnson,Philadelphia 76ers,18.9,.448,,3.1,0.8,0.3,0.6,1.2,5.5
+596,Franklin Edwards,Philadelphia 76ers,15.6,.472,.000,1.0,2.7,1.0,0.1,1.4,6.7
+597,Russ Schoene,Philadelphia 76ers,15.3,.512,.000,3.3,0.7,0.3,0.2,1.0,5.1
+598,Earl Cureton,Philadelphia 76ers,13.5,.419,,3.7,0.6,0.5,0.3,1.0,3.4
+599,Mark McNamara,Philadelphia 76ers,5.1,.453,,2.1,0.2,0.1,0.1,1.0,2.2
+600,J.J. Anderson,Philadelphia 76ers,3.7,.364,.000,0.9,0.1,0.1,0.0,0.4,1.3
+601,Magic Johnson,Los Angeles Lakers,38.3,.537,.207,9.6,9.5,2.7,0.4,3.7,18.6
+602,Norm Nixon,Los Angeles Lakers,36.9,.493,.250,2.1,8.0,1.6,0.1,2.9,17.6
+603,Jamaal Wilkes,Los Angeles Lakers,35.4,.525,.000,4.8,1.7,1.1,0.3,2.0,21.1
+604,Kareem Abdul-Jabbar,Los Angeles Lakers,35.2,.579,.000,8.7,3.0,0.8,2.7,3.0,23.9
+605,Mitch Kupchak,Los Angeles Lakers,31.6,.573,,8.1,1.3,0.5,0.4,1.7,14.3
+606,Michael Cooper,Los Angeles Lakers,28.9,.517,.118,3.5,3.0,1.6,0.8,2.0,11.9
+607,Bob McAdoo,Los Angeles Lakers,18.2,.458,.000,3.9,0.8,0.5,0.9,1.2,9.6
+608,Kurt Rambis,Los Angeles Lakers,17.7,.518,.000,5.4,0.9,0.9,1.2,1.2,4.6
+609,Mark Landsberger,Los Angeles Lakers,15.1,.438,.000,5.3,0.4,0.1,0.1,0.7,4.3
+610,Jim Brewer,Los Angeles Lakers,13.6,.463,.167,3.7,0.6,0.5,0.6,0.5,2.4
+611,Eddie Jordan,Los Angeles Lakers,10.5,.428,.111,0.7,2.3,1.1,0.0,1.1,3.8
+612,Clay Johnson,Los Angeles Lakers,9.3,.550,,1.7,1.0,0.4,0.4,1.0,3.6
+613,Mike McGee,Los Angeles Lakers,9.0,.465,.000,1.3,0.4,0.5,0.1,0.9,4.9
+614,Kevin McKenna,Los Angeles Lakers,6.6,.322,.000,0.8,0.4,0.3,0.1,0.6,1.9
+615,Larry Bird,Boston Celtics,39.5,.478,.270,10.9,5.5,2.0,0.8,3.5,21.2
+616,Tiny Archibald,Boston Celtics,35.3,.499,.000,2.2,7.7,0.9,0.2,3.3,13.8
+617,Cedric Maxwell,Boston Celtics,33.7,.588,.000,6.5,2.7,1.0,0.8,2.2,15.2
+618,Chris Ford,Boston Celtics,33.2,.444,.330,2.0,3.6,1.2,0.3,1.5,8.9
+619,Robert Parish,Boston Celtics,28.0,.545,.000,9.5,1.8,1.0,2.6,2.3,18.9
+620,Kevin McHale,Boston Celtics,20.1,.533,.000,4.4,0.7,0.3,1.8,1.3,10.0
+621,Gerald Henderson,Boston Celtics,19.6,.451,.063,1.6,2.6,1.0,0.1,2.0,7.8
+622,Rick Robey,Boston Celtics,19.1,.545,.000,4.8,1.5,0.5,0.2,1.7,9.0
+623,M.L. Carr,Boston Celtics,16.0,.449,.071,2.0,1.4,0.7,0.4,1.1,6.0
+624,Eric Fernsten,Boston Celtics,6.2,.481,,1.4,0.2,0.1,0.2,0.4,2.1
+625,Wayne Kreklow,Boston Celtics,4.0,.234,.250,0.5,0.4,0.1,0.0,0.4,1.2
+626,Terry Duerod,Boston Celtics,3.6,.411,.600,0.2,0.2,0.2,0.0,0.3,2.5
+627,Norm Nixon,Los Angeles Lakers,39.3,.516,.125,2.8,7.8,1.8,0.2,3.5,17.6
+628,Kareem Abdul-Jabbar,Los Angeles Lakers,38.3,.604,.000,10.8,4.5,1.0,3.4,3.6,24.8
+629,Jamaal Wilkes,Los Angeles Lakers,37.9,.535,.176,6.4,3.0,1.6,0.3,1.9,20.0
+630,Magic Johnson,Los Angeles Lakers,36.3,.530,.226,7.7,7.3,2.4,0.5,4.0,18.0
+631,Jim Chones,Los Angeles Lakers,29.2,.489,.000,6.9,1.8,0.7,0.8,2.1,10.6
+632,Michael Cooper,Los Angeles Lakers,24.1,.524,.250,2.8,2.7,1.0,0.5,1.7,8.8
+633,Spencer Haywood,Los Angeles Lakers,20.3,.487,.250,4.6,1.2,0.5,0.8,1.8,9.7
+634,Ron Boone,Los Angeles Lakers,17.7,.350,,1.8,1.2,0.8,0.0,2.2,5.7
+635,Mark Landsberger,Los Angeles Lakers,16.3,.482,,7.1,0.6,0.4,0.2,1.1,7.0
+636,Kenny Carr,Los Angeles Lakers,11.4,.438,,3.4,0.2,0.4,0.2,1.8,3.2
+637,Don Ford,Los Angeles Lakers,11.2,.508,.000,1.9,0.7,0.2,0.3,0.6,3.0
+638,Marty Byrnes,Los Angeles Lakers,6.1,.500,,0.8,0.4,0.2,0.0,0.7,2.0
+639,Ollie Mack,Los Angeles Lakers,5.7,.420,.000,0.8,0.7,0.1,0.0,0.3,1.9
+640,Brad Holland,Los Angeles Lakers,5.2,.423,.200,0.4,0.6,0.4,0.0,0.3,2.8
+641,Butch Lee,Los Angeles Lakers,2.8,.308,,0.7,0.8,0.1,0.0,0.6,1.3
